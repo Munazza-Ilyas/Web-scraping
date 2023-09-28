@@ -1,0 +1,6 @@
+variable_name,site_name,datetime,value,longitude,latitude
+"Depth to water level, ft below land surface",AS-69-12-206 (Bandera County Edwards GW Well 1),2022-06-22 12:30:00,250.86,-99.5671889,29.8677972
+"Depth to water level, ft below land surface",AS-69-12-206 (Bandera County Edwards GW Well 1),2022-08-09 13:45:00,251.02,-99.5671889,29.8677972
+"Depth to water level, ft below land surface",AS-69-23-402 (Hondo Canyon),2022-07-05 13:46:00,203.0,-99.2365278,29.66775
+"Depth to water level, ft below land surface",AY-68-27-609 (Western Oak),2022-07-07 13:30:00,236.81,-98.6616667,29.56805556
+"Depth to water level, ft below land surface",AY-68-27-609 (Western Oak),2022-08-22 13:46:00,242.93,-98.6616667,29.56805556
