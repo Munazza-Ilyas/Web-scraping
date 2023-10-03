@@ -1,18 +1,35 @@
 import datetime
-
+from dateutil.parser import isoparse
 
 def extract_timeseriesx(raw_data):
     """Returns a list of all timeseries (as dict),
     given the raw data as dict."""
-
-    return
+    if "value" in raw_data and "timeSeries" in raw_data["value"]:
+         timeseries_list = raw_data["value"]["timeSeries"]
+         timeseries_dicts = []
+         for timeseries in timeseries_list:
+            timeseries_dict = {
+                "sourceInfo" : timeseries["sourceInfo"],
+                "variable" : timeseries["variable"],
+                "values": timeseries["values"],
+                "name":timeseries["name"],
+            }
+            timeseries_dicts.append(timeseries_dict)
+            
+    return timeseries_dicts
 
 def extract_metadata_from_timeseries(timeseries):
     """Takes a single timeseries as dict and extracts the metadata as a dict
     with the keys "site_name", "latitude", "longitude" and "variable_name".
     The values for "latitude" and "longitude" are floats."""
 
-    return
+    metadata = {
+    "site_name" : timeseries["sourceInfo"]["siteName"],
+    "latitude" : float(timeseries["sourceInfo"]["geoLocation"]["geogLocation"]["latitude"]),
+    "longitude" : float(timeseries["sourceInfo"]["geoLocation"]["geogLocation"]["longitude"]),
+    "variable_name" : timeseries["variable"]["variableName"],
+    }  
+    return metadata
 
 
 def extract_values_from_timerseries(timeseries):
@@ -28,9 +45,22 @@ def extract_values_from_timerseries(timeseries):
     # So, it can already accommodate multiple values.
     # Also, from spot checking timeseries["values"] appears to be of length 1.
     # So, use only the first element of the list.
+    
+    
     values = timeseries["values"][0]["value"]
 
-    return
+    extracted_values = []
+
+    for value_entry in values:
+        datetime_obj = isoparse(value_entry["dateTime"])
+        value_dict = {
+            "datetime": datetime_obj,
+            "value": float(value_entry["value"]),
+        }
+
+        extracted_values.append(value_dict)
+
+    return extracted_values
 
 
 def extract_data_from_timeseries(timeseries):
@@ -41,15 +71,26 @@ def extract_data_from_timeseries(timeseries):
 
     metadata = extract_metadata_from_timeseries(timeseries)
     values = extract_values_from_timerseries(timeseries)
+    data_list = []
 
-    return
+    for value_entry in values:
+        data_entry = {**metadata, **value_entry}
+        data_list.append(data_entry)
+    return data_list
 
 
 def extract_data(data):
 
     timeseriesx = extract_timeseriesx(data)
+    combined_data = []
 
-    return
+    for timeseries in timeseriesx:
+        data_each_timeseries = extract_data_from_timeseries(timeseries)
+        l = len(data_each_timeseries)
+        if l > 0:
+            for m in range(0,l):
+                combined_data.append(data_each_timeseries[m])
+    return combined_data
 
 
 if __name__ == "__main__":

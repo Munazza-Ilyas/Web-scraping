@@ -1,0 +1,648 @@
+variable_name,site_name,datetime,value,longitude,latitude
+"Depth to water level, ft below land surface",AS-69-12-206 (Bandera County Edwards GW Well 1),2022-06-22 12:30:00,250.86,-99.5671889,29.8677972
+"Depth to water level, ft below land surface",AS-69-12-206 (Bandera County Edwards GW Well 1),2022-08-09 13:45:00,251.02,-99.5671889,29.8677972
+"Depth to water level, ft below land surface",AS-69-23-402 (Hondo Canyon),2022-07-05 13:46:00,203.0,-99.2365278,29.66775
+"Depth to water level, ft below land surface",AS-69-23-402 (Hondo Canyon),2022-08-22 15:44:00,209.76,-99.2365278,29.66775
+"Depth to water level, ft below land surface",AY-68-27-609 (Western Oak),2022-07-07 13:30:00,236.81,-98.6616667,29.56805556
+"Depth to water level, ft below land surface",AY-68-27-609 (Western Oak),2022-08-22 13:46:00,242.93,-98.6616667,29.56805556
+"Depth to water level, ft below land surface",AY-68-27-610 (Parkwood Park),2022-08-25 13:16:00,207.42,-98.6355556,29.54777778
+"Depth to water level, ft below land surface",AY-68-27-610 (Parkwood Park),2022-08-25 17:48:00,207.4,-98.6355556,29.54777778
+"Depth to water level, ft below land surface",AY-68-28-202 (Shavano Park 2),2022-08-30 15:30:00,264.82,-98.5486304,29.5877273
+"Depth to water level, ft below land surface",AY-68-28-211 (Shavano Park at Fawn Drive),2022-08-30 12:50:00,247.12,-98.5486111,29.58777778
+"Depth to water level, ft below land surface",AY-68-28-211 (Shavano Park at Fawn Drive),2022-09-20 14:18:00,247.68,-98.5486111,29.58777778
+"Depth to water level, ft below land surface",AY-68-29-112 (Donella),2022-08-31 13:34:00,184.75,-98.48,29.5997222
+"Depth to water level, ft below land surface",AY-68-29-112 (Donella),2022-09-20 13:33:00,184.66,-98.48,29.5997222
+"Depth to water level, ft below land surface",AY-68-36-132 (Z DED),2022-06-27 15:53:00,208.1,-98.5955556,29.49527778
+"Depth to water level, ft below land surface",AY-68-36-132 (Z DED),2022-08-24 14:54:00,206.79,-98.5955556,29.49527778
+"Depth to water level, ft below land surface",BA-28-03-601,2022-09-06 14:14:00,17.72,-101.6379214,32.93065589
+"Depth to water level, ft below land surface","Benbrook Lk Piezo P-F nr Benbrook, TX",2022-07-08 15:03:00,18.2,-97.4476306,32.65197778
+"Depth to water level, ft below land surface","Benbrook Lk Piezo P-G nr Benbrook, TX",2022-07-19 21:06:00,12.97,-97.4590639,32.65505833
+"Depth to water level, ft below land surface","Benbrook Lk Piezo P-H nr Benbrook, TX",2022-07-08 14:55:00,28.42,-97.4529972,32.6536611
+"Depth to water level, ft below land surface","Benbrook Lk Piezo P-I nr Benbrook, TX",2022-07-19 22:45:00,32.81,-97.4605083,32.65511667
+"Depth to water level, ft below land surface","Benbrook Lk Piezo P-J nr Benbrook, TX",2022-07-19 20:16:00,67.22,-97.4579056,32.6543972
+"Depth to water level, ft below land surface","Benbrook Lk Piezo P-K nr Benbrook, TX",2022-07-08 14:16:00,69.34,-97.4540417,32.65331667
+"Depth to water level, ft below land surface","Benbrook Lk Piezo P1 nr Benbrook, TX",2022-07-19 23:01:00,60.15,-97.4606917,32.65479444
+"Depth to water level, ft below land surface","Benbrook Lk Piezo P10 nr Benbrook, TX",2022-07-08 14:23:00,45.23,-97.4540722,32.6533222
+"Depth to water level, ft below land surface","Benbrook Lk Piezo P11 nr Benbrook, TX",2022-07-08 14:19:00,60.69,-97.4540583,32.65331944
+"Depth to water level, ft below land surface","Benbrook Lk Piezo P12 nr Benbrook, TX",2022-07-08 14:27:00,22.65,-97.4539167,32.65360556
+"Depth to water level, ft below land surface","Benbrook Lk Piezo P2 nr Benbrook, TX",2022-07-19 22:42:00,15.31,-97.4605417,32.65512778
+"Depth to water level, ft below land surface","Benbrook Lk Piezo P3 nr Benbrook, TX",2022-07-19 22:43:00,22.75,-97.460525,32.6551222
+"Depth to water level, ft below land surface","Benbrook Lk Piezo P4 nr Benbrook, TX",2022-07-19 22:51:00,23.55,-97.4605389,32.6551972
+"Depth to water level, ft below land surface","Benbrook Lk Piezo P5 nr Benbrook, TX",2022-07-19 21:25:00,77.8,-97.4580417,32.65405556
+"Depth to water level, ft below land surface","Benbrook Lk Piezo P6 nr Benbrook, TX",2022-07-19 20:14:00,39.58,-97.4579417,32.65440833
+"Depth to water level, ft below land surface","Benbrook Lk Piezo P7 nr Benbrook, TX",2022-07-19 20:15:00,52.64,-97.4579222,32.65440278
+"Depth to water level, ft below land surface","Benbrook Lk Piezo P8 nr Benbrook, TX",2022-07-19 20:51:00,18.84,-97.4578278,32.6546472
+"Depth to water level, ft below land surface","Benbrook Lk Piezo P9 nr Benbrook, TX",2022-07-08 13:34:00,75.47,-97.4542083,32.65298056
+"Depth to water level, ft below land surface",JB-84-38-902 (Duval County CRN),2022-06-29 18:13:00,49.59,-98.267507,27.38642619
+"Depth to water level, ft below land surface",JY-65-29-106 (Fort Bend Extensometer),2022-07-28 20:04:00,31.95,-95.7477778,29.72416667
+"Depth to water level, ft below land surface",JY-65-29-106 (Fort Bend Extensometer),2022-08-30 13:38:00,31.85,-95.7477778,29.72416667
+"Depth to water level, ft below land surface",KH-64-33-915,2022-07-27 14:29:00,20.3,-94.8952778,29.41638889
+"Depth to water level, ft below land surface",KH-64-33-916,2022-07-27 14:37:00,29.2,-94.8952778,29.41638889
+"Depth to water level, ft below land surface",KH-64-33-917,2022-07-27 14:40:00,32.39,-94.8952778,29.41638889
+"Depth to water level, ft below land surface",KH-64-33-918,2022-07-27 14:44:00,47.28,-94.8952778,29.41638889
+"Depth to water level, ft below land surface",KH-64-33-919,2022-07-27 14:48:00,47.67,-94.8952778,29.41638889
+"Depth to water level, ft below land surface",KH-64-33-920 (Texas City Extensometer),2022-06-28 14:06:00,46.54,-94.8950028,29.416325
+"Depth to water level, ft below land surface",KH-64-33-920 (Texas City Extensometer),2022-07-27 14:36:00,46.5,-94.8950028,29.416325
+"Depth to water level, ft below land surface",KH-64-33-920 (Texas City Extensometer),2022-08-30 17:40:00,46.33,-94.8950028,29.416325
+"Depth to water level, ft below land surface",KH-64-33-920 (Texas City Extensometer),2022-09-06 16:31:00,46.52,-94.8950028,29.416325
+"Depth to water level, ft below land surface",KH-64-33-921,2022-07-27 14:52:00,13.44,-94.8952778,29.41638889
+"Depth to water level, ft below land surface",KH-65-40-707 (Galveston),2022-06-28 13:16:00,92.39,-95.1102778,29.39416667
+"Depth to water level, ft below land surface",KH-65-40-707 (Galveston),2022-09-14 14:01:00,93.68,-95.1102778,29.39416667
+"Depth to water level, ft below land surface",LJ-65-07-902,2022-07-28 14:20:00,80.83,-95.1430556,29.91388889
+"Depth to water level, ft below land surface",LJ-65-07-905 (Lake Houston Piezometer No. 2),2022-07-28 13:59:00,85.44,-95.145,29.91388889
+"Depth to water level, ft below land surface",LJ-65-07-905 (Lake Houston Piezometer No. 2),2022-08-30 20:36:00,85.65,-95.145,29.91388889
+"Depth to water level, ft below land surface",LJ-65-07-906,2022-07-28 13:49:00,175.93,-95.145,29.91388889
+"Depth to water level, ft below land surface",LJ-65-07-907,2022-07-28 13:54:00,158.84,-95.145,29.91388889
+"Depth to water level, ft below land surface",LJ-65-07-908,2022-07-28 13:57:00,173.85,-95.145,29.91388889
+"Depth to water level, ft below land surface",LJ-65-07-909 (Lake Houston Extensometer),2022-07-28 13:53:00,166.98,-95.1455278,29.9132222
+"Depth to water level, ft below land surface",LJ-65-07-909 (Lake Houston Extensometer),2022-08-30 20:19:00,166.54,-95.1455278,29.9132222
+"Depth to water level, ft below land surface",LJ-65-12-725 (Addicks Piezometer No. 2),2022-08-30 17:49:00,14.83,-95.5866667,29.79083333
+"Depth to water level, ft below land surface",LJ-65-12-726 (Addicks Extensometer),2022-07-28 19:08:00,359.91,-95.5861389,29.79069444
+"Depth to water level, ft below land surface",LJ-65-12-726 (Addicks Extensometer),2022-08-30 17:40:00,371.66,-95.5861389,29.79069444
+"Depth to water level, ft below land surface",LJ-65-12-729 (Addicks Piezometer No. 1),2022-06-28 17:52:00,151.95,-95.5866667,29.79083333
+"Depth to water level, ft below land surface",LJ-65-12-729 (Addicks Piezometer No. 1),2022-07-28 19:09:00,151.95,-95.5866667,29.79083333
+"Depth to water level, ft below land surface",LJ-65-12-729 (Addicks Piezometer No. 1),2022-08-30 17:52:00,152.08,-95.5866667,29.79083333
+"Depth to water level, ft below land surface",LJ-65-14-735,2022-07-28 18:25:00,215.64,-95.3338889,29.79138889
+"Depth to water level, ft below land surface",LJ-65-14-738 (Northeast Piezometer No. 4),2022-07-28 18:35:00,168.29,-95.3338889,29.79138889
+"Depth to water level, ft below land surface",LJ-65-14-738 (Northeast Piezometer No. 4),2022-08-30 16:43:00,170.4,-95.3338889,29.79138889
+"Depth to water level, ft below land surface",LJ-65-14-742,2022-07-28 18:22:00,184.61,-95.3338889,29.79138889
+"Depth to water level, ft below land surface",LJ-65-14-745,2022-07-28 18:17:00,132.25,-95.3338889,29.79138889
+"Depth to water level, ft below land surface",LJ-65-14-746 (Northeast Extensometer),2022-07-28 18:28:00,235.73,-95.3339722,29.79088889
+"Depth to water level, ft below land surface",LJ-65-14-746 (Northeast Extensometer),2022-08-30 16:36:00,234.88,-95.3339722,29.79088889
+"Depth to water level, ft below land surface",LJ-65-16-904,2022-07-27 18:04:00,106.28,-95.0305556,29.75777778
+"Depth to water level, ft below land surface",LJ-65-16-922,2022-07-27 17:52:00,20.96,-95.0305556,29.75777778
+"Depth to water level, ft below land surface",LJ-65-16-923,2022-07-27 17:55:00,72.79,-95.0305556,29.75777778
+"Depth to water level, ft below land surface",LJ-65-16-925,2022-07-27 17:58:00,97.5,-95.0305556,29.75777778
+"Depth to water level, ft below land surface",LJ-65-16-930 (Baytown C-1 Extensometer),2022-07-27 17:48:00,103.35,-95.03065,29.75784167
+"Depth to water level, ft below land surface",LJ-65-16-930 (Baytown C-1 Extensometer),2022-08-30 19:05:00,102.84,-95.03065,29.75784167
+"Depth to water level, ft below land surface",LJ-65-16-931 (Baytown C-2 Extensometer),2022-07-27 18:00:00,101.42,-95.03065,29.75784167
+"Depth to water level, ft below land surface",LJ-65-16-931 (Baytown C-2 Extensometer),2022-08-30 19:11:00,101.41,-95.03065,29.75784167
+"Depth to water level, ft below land surface",LJ-65-16-932,2022-07-27 17:47:00,129.59,-95.0305556,29.75777778
+"Depth to water level, ft below land surface",LJ-65-16-933,2022-07-27 17:41:00,9.74,-95.0305556,29.75777778
+"Depth to water level, ft below land surface",LJ-65-21-226 (Southwest Extensometer),2022-07-28 17:16:00,227.33,-95.4507778,29.727
+"Depth to water level, ft below land surface",LJ-65-21-226 (Southwest Extensometer),2022-08-30 15:28:00,227.3,-95.4507778,29.727
+"Depth to water level, ft below land surface",LJ-65-21-227,2022-07-28 17:10:00,270.56,-95.4513889,29.7275
+"Depth to water level, ft below land surface",LJ-65-21-228,2022-07-28 17:17:00,154.26,-95.4513889,29.7275
+"Depth to water level, ft below land surface",LJ-65-21-229,2022-07-28 17:19:00,225.18,-95.4513889,29.7275
+"Depth to water level, ft below land surface",LJ-65-21-230 (Southwest Piezometer No. 2),2022-07-28 17:36:00,252.19,-95.4513889,29.7275
+"Depth to water level, ft below land surface",LJ-65-21-230 (Southwest Piezometer No. 2),2022-08-30 15:33:00,254.67,-95.4513889,29.7275
+"Depth to water level, ft below land surface",LJ-65-22-622 (East End Extensometer),2022-06-28 18:30:00,164.64,-95.2740556,29.7017222
+"Depth to water level, ft below land surface",LJ-65-22-622 (East End Extensometer),2022-07-28 16:35:00,166.22,-95.2740556,29.7017222
+"Depth to water level, ft below land surface",LJ-65-22-622 (East End Extensometer),2022-08-30 12:56:00,167.81,-95.2740556,29.7017222
+"Depth to water level, ft below land surface",LJ-65-22-623,2022-07-28 16:30:00,14.77,-95.2741667,29.70194444
+"Depth to water level, ft below land surface",LJ-65-22-9xx (MW-102),2022-06-21 13:36:00,125.68,-95.250175,29.65988889
+"Depth to water level, ft below land surface",LJ-65-22-9xx (MW-102),2022-07-12 13:40:00,125.68,-95.250175,29.65988889
+"Depth to water level, ft below land surface",LJ-65-22-9xx (MW-102),2022-08-11 14:59:00,125.98,-95.250175,29.65988889
+"Depth to water level, ft below land surface",LJ-65-22-9xx (MW-102),2022-09-14 15:20:00,126.02,-95.250175,29.65988889
+"Depth to water level, ft below land surface",LJ-65-22-9xx (MW-11),2022-06-21 13:08:00,16.94,-95.250725,29.66131389
+"Depth to water level, ft below land surface",LJ-65-22-9xx (MW-11),2022-07-12 13:14:00,17.34,-95.250725,29.66131389
+"Depth to water level, ft below land surface",LJ-65-22-9xx (MW-11),2022-08-11 14:41:00,17.99,-95.250725,29.66131389
+"Depth to water level, ft below land surface",LJ-65-22-9xx (MW-11),2022-09-14 15:03:00,18.17,-95.250725,29.66131389
+"Depth to water level, ft below land surface",LJ-65-22-9xx (RW-1R),2022-06-21 14:08:00,27.12,-95.2502,29.65931389
+"Depth to water level, ft below land surface",LJ-65-22-9xx (RW-1R),2022-07-12 13:58:00,27.28,-95.2502,29.65931389
+"Depth to water level, ft below land surface",LJ-65-22-9xx (RW-1R),2022-08-11 15:36:00,26.28,-95.2502,29.65931389
+"Depth to water level, ft below land surface",LJ-65-22-9xx (RW-1R),2022-09-14 15:48:00,26.04,-95.2502,29.65931389
+"Depth to water level, ft below land surface",LJ-65-22-9xx (RW-8R),2022-06-21 12:57:00,24.86,-95.2506917,29.66098889
+"Depth to water level, ft below land surface",LJ-65-22-9xx (RW-8R),2022-07-12 12:58:00,24.99,-95.2506917,29.66098889
+"Depth to water level, ft below land surface",LJ-65-22-9xx (RW-8R),2022-08-11 14:31:00,24.81,-95.2506917,29.66098889
+"Depth to water level, ft below land surface",LJ-65-22-9xx (RW-8R),2022-09-14 14:47:00,24.33,-95.2506917,29.66098889
+"Depth to water level, ft below land surface",LJ-65-23-320,2022-07-28 15:11:00,120.96,-95.1591667,29.71055556
+"Depth to water level, ft below land surface",LJ-65-23-321,2022-07-28 15:04:00,12.35,-95.1591667,29.71055556
+"Depth to water level, ft below land surface",LJ-65-23-322 (Pasadena Extensometer),2022-06-28 17:42:00,101.58,-95.159275,29.71015833
+"Depth to water level, ft below land surface",LJ-65-23-322 (Pasadena Extensometer),2022-07-28 14:55:00,101.64,-95.159275,29.71015833
+"Depth to water level, ft below land surface",LJ-65-23-322 (Pasadena Extensometer),2022-08-30 13:46:00,101.58,-95.159275,29.71015833
+"Depth to water level, ft below land surface",LJ-65-23-323,2022-07-28 15:19:00,153.2,-95.1591667,29.71055556
+"Depth to water level, ft below land surface",LJ-65-23-324,2022-07-28 14:56:00,154.01,-95.1591667,29.71055556
+"Depth to water level, ft below land surface",LJ-65-23-325,2022-07-28 15:18:00,150.71,-95.1591667,29.71055556
+"Depth to water level, ft below land surface",LJ-65-23-326,2022-07-28 15:00:00,151.36,-95.1591667,29.71055556
+"Depth to water level, ft below land surface",LJ-65-23-7xx (MW-26),2022-06-21 13:59:00,21.78,-95.2494944,29.65974444
+"Depth to water level, ft below land surface",LJ-65-23-7xx (MW-26),2022-07-12 14:22:00,21.62,-95.2494944,29.65974444
+"Depth to water level, ft below land surface",LJ-65-23-7xx (MW-26),2022-08-11 16:13:00,21.75,-95.2494944,29.65974444
+"Depth to water level, ft below land surface",LJ-65-23-7xx (MW-26),2022-09-14 16:03:00,21.68,-95.2494944,29.65974444
+"Depth to water level, ft below land surface",LJ-65-24-215,2022-07-27 18:56:00,52.64,-95.08,29.74277778
+"Depth to water level, ft below land surface",LJ-65-24-216,2022-07-27 18:58:00,12.74,-95.08,29.74277778
+"Depth to water level, ft below land surface",LJ-65-24-217,2022-07-27 18:59:00,12.79,-95.08,29.74277778
+"Depth to water level, ft below land surface",LJ-65-32-401 (NASA Extensometer),2022-06-28 15:33:00,105.35,-95.0960278,29.5518611
+"Depth to water level, ft below land surface",LJ-65-32-401 (NASA Extensometer),2022-07-27 16:05:00,105.47,-95.0960278,29.5518611
+"Depth to water level, ft below land surface",LJ-65-32-401 (NASA Extensometer),2022-08-30 15:31:00,105.61,-95.0960278,29.5518611
+"Depth to water level, ft below land surface",LJ-65-32-424 (Clear Lake Shallow Extensometer),2022-06-28 16:09:00,107.85,-95.1192778,29.56375
+"Depth to water level, ft below land surface",LJ-65-32-424 (Clear Lake Shallow Extensometer),2022-07-27 16:35:00,109.31,-95.1192778,29.56375
+"Depth to water level, ft below land surface",LJ-65-32-424 (Clear Lake Shallow Extensometer),2022-08-30 14:45:00,110.31,-95.1192778,29.56375
+"Depth to water level, ft below land surface",LJ-65-32-425,2022-07-27 16:44:00,32.28,-95.1186111,29.5636111
+"Depth to water level, ft below land surface",LJ-65-32-426,2022-07-27 16:38:00,85.99,-95.1186111,29.5636111
+"Depth to water level, ft below land surface",LJ-65-32-427,2022-07-27 16:33:00,116.64,-95.1186111,29.5636111
+"Depth to water level, ft below land surface",LJ-65-32-428 (Clear Lake Deep Extensometer),2022-06-28 16:35:00,132.77,-95.1189444,29.56341667
+"Depth to water level, ft below land surface",LJ-65-32-428 (Clear Lake Deep Extensometer),2022-07-27 16:50:00,132.8,-95.1189444,29.56341667
+"Depth to water level, ft below land surface",LJ-65-32-428 (Clear Lake Deep Extensometer),2022-07-28 15:59:00,132.78,-95.1189444,29.56341667
+"Depth to water level, ft below land surface",LJ-65-32-428 (Clear Lake Deep Extensometer),2022-08-30 15:01:00,132.66,-95.1189444,29.56341667
+"Depth to water level, ft below land surface",LJ-65-32-625 (Seabrook Extensometer),2022-06-28 15:01:00,94.91,-95.0214556,29.56479444
+"Depth to water level, ft below land surface",LJ-65-32-625 (Seabrook Extensometer),2022-07-27 15:31:00,94.91,-95.0214556,29.56479444
+"Depth to water level, ft below land surface",LJ-65-32-625 (Seabrook Extensometer),2022-08-30 16:03:00,94.8,-95.0214556,29.56479444
+"Depth to water level, ft below land surface",LJ-65-32-626,2022-07-27 15:42:00,94.53,-95.0213889,29.5647222
+"Depth to water level, ft below land surface",LJ-65-32-628,2022-07-27 15:29:00,14.98,-95.0213889,29.5647222
+"Depth to water level, ft below land surface",LJ-65-32-629,2022-07-27 15:38:00,63.31,-95.0213889,29.5647222
+"Depth to water level, ft below land surface",LJ-65-32-630,2022-07-27 15:42:00,94.38,-95.0213889,29.5647222
+"Depth to water level, ft below land surface",LJ-65-32-631,2022-07-27 15:24:00,6.28,-95.0213889,29.5647222
+"Depth to water level, ft below land surface",MBOWN-228 - JL-49-04-466 (CWF-4A),2022-07-07 17:35:00,22.38,-106.6127696,31.95343558
+"Depth to water level, ft below land surface",MBOWN-228 - JL-49-04-466 (CWF-4A),2022-08-18 18:43:00,22.6,-106.6127696,31.95343558
+"Depth to water level, ft below land surface",MBOWN-228 - JL-49-04-466 (CWF-4A),2022-09-22 17:18:00,22.86,-106.6127696,31.95343558
+"Depth to water level, ft below land surface",MBOWN-229 - JL-49-04-467 (CWF-4B),2022-07-07 17:38:00,25.32,-106.6127696,31.95343558
+"Depth to water level, ft below land surface",MBOWN-229 - JL-49-04-467 (CWF-4B),2022-08-18 18:44:00,24.32,-106.6127696,31.95343558
+"Depth to water level, ft below land surface",MBOWN-229 - JL-49-04-467 (CWF-4B),2022-09-22 17:20:00,25.85,-106.6127696,31.95343558
+"Depth to water level, ft below land surface",MBOWN-230 - JL-49-04-468 (CWF-4C),2022-07-07 17:41:00,88.51,-106.6127696,31.95343558
+"Depth to water level, ft below land surface",MBOWN-230 - JL-49-04-468 (CWF-4C),2022-08-18 18:45:00,103.92,-106.6127696,31.95343558
+"Depth to water level, ft below land surface",MBOWN-230 - JL-49-04-468 (CWF-4C),2022-09-22 17:22:00,113.33,-106.6127696,31.95343558
+"Depth to water level, ft below land surface",MBOWN-231 - JL-49-04-469 (CWF-4D),2022-07-07 17:45:00,84.18,-106.6127696,31.95343558
+"Depth to water level, ft below land surface",MBOWN-231 - JL-49-04-469 (CWF-4D),2022-08-18 18:47:00,112.25,-106.6127696,31.95343558
+"Depth to water level, ft below land surface",MBOWN-231 - JL-49-04-469 (CWF-4D),2022-09-22 17:25:00,102.49,-106.6127696,31.95343558
+"Depth to water level, ft below land surface",MBOWN-232 - JL-49-04-470 (CWF-3A),2022-07-07 17:09:00,20.81,-106.6072139,31.95371337
+"Depth to water level, ft below land surface",MBOWN-232 - JL-49-04-470 (CWF-3A),2022-08-18 17:59:00,17.67,-106.6072139,31.95371337
+"Depth to water level, ft below land surface",MBOWN-232 - JL-49-04-470 (CWF-3A),2022-09-22 17:00:00,21.05,-106.6072139,31.95371337
+"Depth to water level, ft below land surface",MBOWN-233 - JL-49-04-471 (CWF-3B),2022-07-07 17:13:00,18.81,-106.6072139,31.95371337
+"Depth to water level, ft below land surface",MBOWN-233 - JL-49-04-471 (CWF-3B),2022-08-18 18:01:00,24.99,-106.6072139,31.95371337
+"Depth to water level, ft below land surface",MBOWN-233 - JL-49-04-471 (CWF-3B),2022-09-22 17:02:00,28.95,-106.6072139,31.95371337
+"Depth to water level, ft below land surface",MBOWN-234 - JL-49-04-472 (CWF-3C),2022-07-07 17:16:00,97.65,-106.6072139,31.95371337
+"Depth to water level, ft below land surface",MBOWN-234 - JL-49-04-472 (CWF-3C),2022-08-18 18:02:00,112.33,-106.6072139,31.95371337
+"Depth to water level, ft below land surface",MBOWN-234 - JL-49-04-472 (CWF-3C),2022-09-22 17:03:00,121.9,-106.6072139,31.95371337
+"Depth to water level, ft below land surface",MBOWN-235 - JL-49-04-473 (CWF-3D),2022-07-07 17:20:00,87.45,-106.6069361,31.95399114
+"Depth to water level, ft below land surface",MBOWN-235 - JL-49-04-473 (CWF-3D),2022-08-18 18:04:00,-999999.0,-106.6069361,31.95399114
+"Depth to water level, ft below land surface",MBOWN-235 - JL-49-04-473 (CWF-3D),2022-09-22 17:07:00,-999999.0,-106.6069361,31.95399114
+"Depth to water level, ft below land surface",MBOWN-236 - JL-49-04-474 (CWF-2A),2022-07-07 16:55:00,12.64,-106.605825,31.95371338
+"Depth to water level, ft below land surface",MBOWN-236 - JL-49-04-474 (CWF-2A),2022-08-18 17:20:00,10.23,-106.605825,31.95371338
+"Depth to water level, ft below land surface",MBOWN-236 - JL-49-04-474 (CWF-2A),2022-09-22 16:33:00,14.53,-106.605825,31.95371338
+"Depth to water level, ft below land surface",MBOWN-237 - JL-49-04-475 (CWF-2B),2022-07-07 16:51:00,27.89,-106.605825,31.95371338
+"Depth to water level, ft below land surface",MBOWN-237 - JL-49-04-475 (CWF-2B),2022-08-18 17:22:00,26.21,-106.605825,31.95371338
+"Depth to water level, ft below land surface",MBOWN-237 - JL-49-04-475 (CWF-2B),2022-09-22 16:35:00,30.59,-106.605825,31.95371338
+"Depth to water level, ft below land surface",MBOWN-238 - JL-49-04-476 (CWF-2C),2022-07-07 16:40:00,94.82,-106.605825,31.95371338
+"Depth to water level, ft below land surface",MBOWN-238 - JL-49-04-476 (CWF-2C),2022-08-18 17:23:00,108.22,-106.605825,31.95371338
+"Depth to water level, ft below land surface",MBOWN-238 - JL-49-04-476 (CWF-2C),2022-09-22 16:41:00,117.78,-106.605825,31.95371338
+"Depth to water level, ft below land surface",MBOWN-239 - JL-49-04-477 (CWF-2D),2022-07-07 16:36:00,86.38,-106.605825,31.95371338
+"Depth to water level, ft below land surface",MBOWN-239 - JL-49-04-477 (CWF-2D),2022-08-18 17:35:00,118.66,-106.605825,31.95371338
+"Depth to water level, ft below land surface",MBOWN-239 - JL-49-04-477 (CWF-2D),2022-09-22 16:37:00,128.0,-106.605825,31.95371338
+"Depth to water level, ft below land surface",MBOWN-240 - JL-49-04-478 (CWF-1A),2022-07-07 16:13:00,11.01,-106.604436,31.95371338
+"Depth to water level, ft below land surface",MBOWN-240 - JL-49-04-478 (CWF-1A),2022-09-22 16:17:00,18.94,-106.604436,31.95371338
+"Depth to water level, ft below land surface",MBOWN-241 - JL-49-04-479 (CWF-1B),2022-07-07 15:56:00,34.57,-106.604436,31.95371338
+"Depth to water level, ft below land surface",MBOWN-241 - JL-49-04-479 (CWF-1B),2022-08-18 16:47:00,32.87,-106.604436,31.95371338
+"Depth to water level, ft below land surface",MBOWN-241 - JL-49-04-479 (CWF-1B),2022-09-22 16:15:00,37.72,-106.604436,31.95371338
+"Depth to water level, ft below land surface",MBOWN-242 - JL-49-04-480 (CWF-1C),2022-07-07 15:52:00,95.03,-106.604436,31.95371338
+"Depth to water level, ft below land surface",MBOWN-242 - JL-49-04-480 (CWF-1C),2022-08-18 16:48:00,107.37,-106.604436,31.95371338
+"Depth to water level, ft below land surface",MBOWN-242 - JL-49-04-480 (CWF-1C),2022-09-22 16:12:00,117.13,-106.604436,31.95371338
+"Depth to water level, ft below land surface",MBOWN-243 - JL-49-04-481 (CWF-1D),2022-07-07 15:46:00,88.54,-106.604436,31.95371338
+"Depth to water level, ft below land surface",MBOWN-243 - JL-49-04-481 (CWF-1D),2022-08-18 16:50:00,116.58,-106.604436,31.95371338
+"Depth to water level, ft below land surface",MBOWN-243 - JL-49-04-481 (CWF-1D),2022-09-22 16:08:00,126.18,-106.604436,31.95371338
+"Depth to water level, ft below land surface",RT-17-10-3xx (Red04),2022-09-15 00:01:00,11.21,-95.788175,33.8337472
+"Depth to water level, ft below land surface",RT-17-13-3xx (Red02),2022-09-14 19:24:00,8.44,-95.4095361,33.8415833
+"Depth to water level, ft below land surface",RU-10-53-602,2022-08-17 14:41:00,153.08,-102.4040556,34.1695
+"Depth to water level, ft below land surface",TD-69-32-703 (MED-1),2022-06-21 13:20:00,189.81,-99.1101102,29.53411853
+"Depth to water level, ft below land surface",TD-69-38-601 (Seco Creek Well),2022-08-23 14:19:00,234.35,-99.2833738,29.43856519
+"Depth to water level, ft below land surface",TS-60-35-202 (Flower Follet),2022-06-23 15:13:00,50.66,-95.7106111,30.49883333
+"Depth to water level, ft below land surface",TS-60-35-202 (Flower Follet),2022-08-11 14:36:00,50.72,-95.7106111,30.49883333
+"Depth to water level, ft below land surface",TS-60-35-202 (Flower Follet),2022-08-30 15:33:00,50.78,-95.7106111,30.49883333
+"Depth to water level, ft below land surface",TS-60-35-503 (Bailey Grove Piezometer No. 2-A),2022-08-11 15:52:00,16.14,-95.7080556,30.4436111
+"Depth to water level, ft below land surface",TS-60-35-505 (Bailey Grove Piezometer No. 2-C),2022-08-11 15:48:00,16.55,-95.7080556,30.4436111
+"Depth to water level, ft below land surface",TS-60-44-805 (Lake Creek Piezometer No. 3-B),2022-08-12 13:59:00,47.44,-95.5769444,30.25138889
+"Depth to water level, ft below land surface",TS-60-45-412 (City of Conroe Piezometer No. 1),2022-08-10 14:45:00,87.68,-95.4836111,30.33027778
+"Depth to water level, ft below land surface",TS-60-45-414 (City of Conroe Piezometer No. 3),2022-08-10 14:49:00,54.59,-95.4836111,30.33027778
+"Depth to water level, ft below land surface",TS-60-53-516 (Needham Piezometer No. 4-A),2022-06-23 16:21:00,355.5,-95.4575,30.20777778
+"Depth to water level, ft below land surface",TS-60-53-516 (Needham Piezometer No. 4-A),2022-07-05 14:25:00,360.12,-95.4575,30.20777778
+"Depth to water level, ft below land surface",TS-60-53-516 (Needham Piezometer No. 4-A),2022-07-05 17:29:00,360.1,-95.4575,30.20777778
+"Depth to water level, ft below land surface",TS-60-53-516 (Needham Piezometer No. 4-A),2022-08-04 18:57:00,373.34,-95.4575,30.20777778
+"Depth to water level, ft below land surface",TS-60-53-718 (Woodlands Piezometer No. 1-A),2022-08-12 15:02:00,150.41,-95.4630556,30.14
+"Depth to water level, ft below land surface",TS-60-55-710 (New Caney Piezometer No. 7-A),2022-06-23 17:10:00,147.83,-95.2425,30.14694444
+"Depth to water level, ft below land surface",TS-60-55-710 (New Caney Piezometer No. 7-A),2022-09-12 16:17:00,150.91,-95.2425,30.14694444
+"Depth to water level, ft below land surface",US-53-09-301,2022-08-09 18:11:00,107.28,-102.8927806,30.8528611
+"Depth to water level, ft below land surface",XU-32-08-2xx (P-1),2022-08-24 00:54:00,16.76,-97.0558228,32.97461083
+"Depth to water level, ft below land surface",XU-32-08-2xx (P-10A),2022-08-24 00:18:00,13.38,-97.0542892,32.9675947
+"Depth to water level, ft below land surface",XU-32-08-2xx (P-11A),2022-08-24 00:12:00,9.34,-97.0539789,32.9655325
+"Depth to water level, ft below land surface",XU-32-08-2xx (P-14),2022-08-24 00:58:00,30.83,-97.0564122,32.97618889
+"Depth to water level, ft below land surface",XU-32-08-2xx (P-1A),2022-08-24 00:52:00,5.24,-97.0558172,32.9745872
+"Depth to water level, ft below land surface",XU-32-08-2xx (P-2),2022-08-24 00:47:00,16.17,-97.0556603,32.97366583
+"Depth to water level, ft below land surface",XU-32-08-2xx (P-3),2022-08-24 01:12:00,38.92,-97.0558425,32.973015
+"Depth to water level, ft below land surface",XU-32-08-2xx (P-4),2022-08-24 00:28:00,17.66,-97.0556036,32.9730511
+"Depth to water level, ft below land surface",XU-32-08-2xx (P-4A),2022-08-24 00:32:00,20.44,-97.0556097,32.97309944
+"Depth to water level, ft below land surface",XU-32-08-2xx (P-5),2022-08-24 00:38:00,16.38,-97.0553878,32.97327028
+"Depth to water level, ft below land surface",XU-32-08-2xx (P-5),2022-08-25 02:07:00,16.38,-97.0553878,32.97327028
+"Depth to water level, ft below land surface",XU-32-08-2xx (P-5A),2022-08-24 00:37:00,18.81,-97.0553167,32.9732575
+"Depth to water level, ft below land surface",XU-32-08-2xx (P-5A),2022-08-25 01:54:00,18.85,-97.0553167,32.9732575
+"Depth to water level, ft below land surface",XU-32-08-2xx (P-7),2022-08-25 02:11:00,6.5,-97.0554661,32.97299694
+"Depth to water level, ft below land surface",XU-32-08-2xx (P-8),2022-08-25 02:20:00,14.98,-97.0551833,32.97324444
+"Depth to water level, ft below land surface",XU-32-08-2xx (P-8A),2022-08-25 02:17:00,7.43,-97.0553839,32.97304
+"Depth to water level, ft below land surface",YD-58-50-301 (Lovelady),2022-07-20 16:45:00,183.51,-97.7815833,30.21033889
+"Depth to water level, ft below land surface",YD-58-50-301 (Lovelady),2022-09-19 16:45:00,188.87,-97.7815833,30.21033889
+"Depth to water level, ft below land surface",YD-58-50-301 (Lovelady),2022-09-19 17:00:00,188.85,-97.7815833,30.21033889
+"Depth to water level, ft below land surface",YP-69-35-602 (Frio Reference Well),2022-08-17 16:34:00,69.5,-99.6647745,29.44606596
+"Depth to water level, ft below land surface",YP-69-35-602 (Frio Reference Well),2022-09-07 15:34:00,69.91,-99.6647745,29.44606596
+"Depth to water level, ft below land surface",YU-60-28-802 (Sam Hou. Nat. Forest Piezo. No. 1),2022-08-10 18:58:00,77.42,-95.5639167,30.52816667
+"Groundwater level above NAVD 1988, ft",AS-69-12-206 (Bandera County Edwards GW Well 1),2022-06-22 12:30:00,2035.14,-99.5671889,29.8677972
+"Groundwater level above NAVD 1988, ft",AS-69-12-206 (Bandera County Edwards GW Well 1),2022-08-09 13:45:00,2034.98,-99.5671889,29.8677972
+"Groundwater level above NAVD 1988, ft",AS-69-23-402 (Hondo Canyon),2022-07-05 13:46:00,1240.0,-99.2365278,29.66775
+"Groundwater level above NAVD 1988, ft",AS-69-23-402 (Hondo Canyon),2022-08-22 15:44:00,1233.24,-99.2365278,29.66775
+"Groundwater level above NAVD 1988, ft",AY-68-27-609 (Western Oak),2022-07-07 13:30:00,723.58,-98.6616667,29.56805556
+"Groundwater level above NAVD 1988, ft",AY-68-27-609 (Western Oak),2022-08-22 13:46:00,717.46,-98.6616667,29.56805556
+"Groundwater level above NAVD 1988, ft",AY-68-27-610 (Parkwood Park),2022-08-25 13:16:00,688.98,-98.6355556,29.54777778
+"Groundwater level above NAVD 1988, ft",AY-68-27-610 (Parkwood Park),2022-08-25 17:48:00,689.0,-98.6355556,29.54777778
+"Groundwater level above NAVD 1988, ft",AY-68-28-202 (Shavano Park 2),2022-08-30 15:30:00,705.59,-98.5486304,29.5877273
+"Groundwater level above NAVD 1988, ft",AY-68-28-211 (Shavano Park at Fawn Drive),2022-08-30 12:50:00,728.29,-98.5486111,29.58777778
+"Groundwater level above NAVD 1988, ft",AY-68-28-211 (Shavano Park at Fawn Drive),2022-09-20 14:18:00,727.73,-98.5486111,29.58777778
+"Groundwater level above NAVD 1988, ft",AY-68-29-112 (Donella),2022-08-31 13:34:00,704.66,-98.48,29.5997222
+"Groundwater level above NAVD 1988, ft",AY-68-29-112 (Donella),2022-09-20 13:33:00,704.75,-98.48,29.5997222
+"Groundwater level above NAVD 1988, ft",AY-68-36-132 (Z DED),2022-06-27 15:53:00,640.31,-98.5955556,29.49527778
+"Groundwater level above NAVD 1988, ft",AY-68-36-132 (Z DED),2022-08-24 14:54:00,641.62,-98.5955556,29.49527778
+"Groundwater level above NAVD 1988, ft",BA-28-03-601,2022-09-06 14:14:00,2929.81,-101.6379214,32.93065589
+"Groundwater level above NAVD 1988, ft","Benbrook Lk Piezo P-F nr Benbrook, TX",2022-07-08 15:03:00,632.94,-97.4476306,32.65197778
+"Groundwater level above NAVD 1988, ft","Benbrook Lk Piezo P-G nr Benbrook, TX",2022-07-19 21:06:00,654.27,-97.4590639,32.65505833
+"Groundwater level above NAVD 1988, ft","Benbrook Lk Piezo P-H nr Benbrook, TX",2022-07-08 14:55:00,614.96,-97.4529972,32.6536611
+"Groundwater level above NAVD 1988, ft","Benbrook Lk Piezo P-I nr Benbrook, TX",2022-07-19 22:45:00,670.04,-97.4605083,32.65511667
+"Groundwater level above NAVD 1988, ft","Benbrook Lk Piezo P-J nr Benbrook, TX",2022-07-19 20:16:00,634.63,-97.4579056,32.6543972
+"Groundwater level above NAVD 1988, ft","Benbrook Lk Piezo P-K nr Benbrook, TX",2022-07-08 14:16:00,631.1,-97.4540417,32.65331667
+"Groundwater level above NAVD 1988, ft","Benbrook Lk Piezo P1 nr Benbrook, TX",2022-07-19 23:01:00,690.13,-97.4606917,32.65479444
+"Groundwater level above NAVD 1988, ft","Benbrook Lk Piezo P10 nr Benbrook, TX",2022-07-08 14:23:00,655.28,-97.4540722,32.6533222
+"Groundwater level above NAVD 1988, ft","Benbrook Lk Piezo P11 nr Benbrook, TX",2022-07-08 14:19:00,639.95,-97.4540583,32.65331944
+"Groundwater level above NAVD 1988, ft","Benbrook Lk Piezo P12 nr Benbrook, TX",2022-07-08 14:27:00,641.72,-97.4539167,32.65360556
+"Groundwater level above NAVD 1988, ft","Benbrook Lk Piezo P2 nr Benbrook, TX",2022-07-19 22:42:00,687.52,-97.4605417,32.65512778
+"Groundwater level above NAVD 1988, ft","Benbrook Lk Piezo P3 nr Benbrook, TX",2022-07-19 22:43:00,680.17,-97.460525,32.6551222
+"Groundwater level above NAVD 1988, ft","Benbrook Lk Piezo P4 nr Benbrook, TX",2022-07-19 22:51:00,670.06,-97.4605389,32.6551972
+"Groundwater level above NAVD 1988, ft","Benbrook Lk Piezo P5 nr Benbrook, TX",2022-07-19 21:25:00,672.24,-97.4580417,32.65405556
+"Groundwater level above NAVD 1988, ft","Benbrook Lk Piezo P6 nr Benbrook, TX",2022-07-19 20:14:00,662.2,-97.4579417,32.65440833
+"Groundwater level above NAVD 1988, ft","Benbrook Lk Piezo P7 nr Benbrook, TX",2022-07-19 20:15:00,649.14,-97.4579222,32.65440278
+"Groundwater level above NAVD 1988, ft","Benbrook Lk Piezo P8 nr Benbrook, TX",2022-07-19 20:51:00,650.72,-97.4578278,32.6546472
+"Groundwater level above NAVD 1988, ft","Benbrook Lk Piezo P9 nr Benbrook, TX",2022-07-08 13:34:00,674.5,-97.4542083,32.65298056
+"Groundwater level above NAVD 1988, ft",JB-84-38-902 (Duval County CRN),2022-06-29 18:13:00,197.41,-98.267507,27.38642619
+"Groundwater level above NAVD 1988, ft",JY-65-29-106 (Fort Bend Extensometer),2022-07-28 20:04:00,68.05,-95.7477778,29.72416667
+"Groundwater level above NAVD 1988, ft",JY-65-29-106 (Fort Bend Extensometer),2022-08-30 13:38:00,68.15,-95.7477778,29.72416667
+"Groundwater level above NAVD 1988, ft",KH-64-33-915,2022-07-27 14:29:00,-15.0,-94.8952778,29.41638889
+"Groundwater level above NAVD 1988, ft",KH-64-33-916,2022-07-27 14:37:00,-23.9,-94.8952778,29.41638889
+"Groundwater level above NAVD 1988, ft",KH-64-33-917,2022-07-27 14:40:00,-27.09,-94.8952778,29.41638889
+"Groundwater level above NAVD 1988, ft",KH-64-33-918,2022-07-27 14:44:00,-41.98,-94.8952778,29.41638889
+"Groundwater level above NAVD 1988, ft",KH-64-33-919,2022-07-27 14:48:00,-42.37,-94.8952778,29.41638889
+"Groundwater level above NAVD 1988, ft",KH-64-33-920 (Texas City Extensometer),2022-06-28 14:06:00,-40.67,-94.8950028,29.416325
+"Groundwater level above NAVD 1988, ft",KH-64-33-920 (Texas City Extensometer),2022-07-27 14:36:00,-40.63,-94.8950028,29.416325
+"Groundwater level above NAVD 1988, ft",KH-64-33-920 (Texas City Extensometer),2022-08-30 17:40:00,-40.46,-94.8950028,29.416325
+"Groundwater level above NAVD 1988, ft",KH-64-33-920 (Texas City Extensometer),2022-09-06 16:31:00,-40.65,-94.8950028,29.416325
+"Groundwater level above NAVD 1988, ft",KH-64-33-921,2022-07-27 14:52:00,-8.14,-94.8952778,29.41638889
+"Groundwater level above NAVD 1988, ft",KH-65-40-707 (Galveston),2022-06-28 13:16:00,-64.57,-95.1102778,29.39416667
+"Groundwater level above NAVD 1988, ft",KH-65-40-707 (Galveston),2022-09-14 14:01:00,-65.86,-95.1102778,29.39416667
+"Groundwater level above NAVD 1988, ft",LJ-65-07-902,2022-07-28 14:20:00,-30.62,-95.1430556,29.91388889
+"Groundwater level above NAVD 1988, ft",LJ-65-07-905 (Lake Houston Piezometer No. 2),2022-07-28 13:59:00,-31.62,-95.145,29.91388889
+"Groundwater level above NAVD 1988, ft",LJ-65-07-905 (Lake Houston Piezometer No. 2),2022-08-30 20:36:00,-31.83,-95.145,29.91388889
+"Groundwater level above NAVD 1988, ft",LJ-65-07-906,2022-07-28 13:49:00,-122.11,-95.145,29.91388889
+"Groundwater level above NAVD 1988, ft",LJ-65-07-907,2022-07-28 13:54:00,-105.02,-95.145,29.91388889
+"Groundwater level above NAVD 1988, ft",LJ-65-07-908,2022-07-28 13:57:00,-120.03,-95.145,29.91388889
+"Groundwater level above NAVD 1988, ft",LJ-65-07-909 (Lake Houston Extensometer),2022-07-28 13:53:00,-115.0,-95.1455278,29.9132222
+"Groundwater level above NAVD 1988, ft",LJ-65-07-909 (Lake Houston Extensometer),2022-08-30 20:19:00,-114.56,-95.1455278,29.9132222
+"Groundwater level above NAVD 1988, ft",LJ-65-12-725 (Addicks Piezometer No. 2),2022-08-30 17:49:00,75.33,-95.5866667,29.79083333
+"Groundwater level above NAVD 1988, ft",LJ-65-12-726 (Addicks Extensometer),2022-07-28 19:08:00,-268.85,-95.5861389,29.79069444
+"Groundwater level above NAVD 1988, ft",LJ-65-12-726 (Addicks Extensometer),2022-08-30 17:40:00,-280.6,-95.5861389,29.79069444
+"Groundwater level above NAVD 1988, ft",LJ-65-12-729 (Addicks Piezometer No. 1),2022-06-28 17:52:00,-61.79,-95.5866667,29.79083333
+"Groundwater level above NAVD 1988, ft",LJ-65-12-729 (Addicks Piezometer No. 1),2022-07-28 19:09:00,-61.79,-95.5866667,29.79083333
+"Groundwater level above NAVD 1988, ft",LJ-65-12-729 (Addicks Piezometer No. 1),2022-08-30 17:52:00,-61.92,-95.5866667,29.79083333
+"Groundwater level above NAVD 1988, ft",LJ-65-14-735,2022-07-28 18:25:00,-169.63,-95.3338889,29.79138889
+"Groundwater level above NAVD 1988, ft",LJ-65-14-738 (Northeast Piezometer No. 4),2022-07-28 18:35:00,-122.28,-95.3338889,29.79138889
+"Groundwater level above NAVD 1988, ft",LJ-65-14-738 (Northeast Piezometer No. 4),2022-08-30 16:43:00,-124.39,-95.3338889,29.79138889
+"Groundwater level above NAVD 1988, ft",LJ-65-14-742,2022-07-28 18:22:00,-138.6,-95.3338889,29.79138889
+"Groundwater level above NAVD 1988, ft",LJ-65-14-745,2022-07-28 18:17:00,-86.24,-95.3338889,29.79138889
+"Groundwater level above NAVD 1988, ft",LJ-65-14-746 (Northeast Extensometer),2022-07-28 18:28:00,-189.23,-95.3339722,29.79088889
+"Groundwater level above NAVD 1988, ft",LJ-65-14-746 (Northeast Extensometer),2022-08-30 16:36:00,-188.38,-95.3339722,29.79088889
+"Groundwater level above NAVD 1988, ft",LJ-65-16-904,2022-07-27 18:04:00,-82.16,-95.0305556,29.75777778
+"Groundwater level above NAVD 1988, ft",LJ-65-16-922,2022-07-27 17:52:00,3.16,-95.0305556,29.75777778
+"Groundwater level above NAVD 1988, ft",LJ-65-16-923,2022-07-27 17:55:00,-48.67,-95.0305556,29.75777778
+"Groundwater level above NAVD 1988, ft",LJ-65-16-925,2022-07-27 17:58:00,-73.38,-95.0305556,29.75777778
+"Groundwater level above NAVD 1988, ft",LJ-65-16-930 (Baytown C-1 Extensometer),2022-07-27 17:48:00,-79.48,-95.03065,29.75784167
+"Groundwater level above NAVD 1988, ft",LJ-65-16-930 (Baytown C-1 Extensometer),2022-08-30 19:05:00,-78.97,-95.03065,29.75784167
+"Groundwater level above NAVD 1988, ft",LJ-65-16-931 (Baytown C-2 Extensometer),2022-07-27 18:00:00,-77.55,-95.03065,29.75784167
+"Groundwater level above NAVD 1988, ft",LJ-65-16-931 (Baytown C-2 Extensometer),2022-08-30 19:11:00,-77.54,-95.03065,29.75784167
+"Groundwater level above NAVD 1988, ft",LJ-65-16-932,2022-07-27 17:47:00,-105.47,-95.0305556,29.75777778
+"Groundwater level above NAVD 1988, ft",LJ-65-16-933,2022-07-27 17:41:00,14.38,-95.0305556,29.75777778
+"Groundwater level above NAVD 1988, ft",LJ-65-21-226 (Southwest Extensometer),2022-07-28 17:16:00,-167.94,-95.4507778,29.727
+"Groundwater level above NAVD 1988, ft",LJ-65-21-226 (Southwest Extensometer),2022-08-30 15:28:00,-167.91,-95.4507778,29.727
+"Groundwater level above NAVD 1988, ft",LJ-65-21-227,2022-07-28 17:10:00,-214.63,-95.4513889,29.7275
+"Groundwater level above NAVD 1988, ft",LJ-65-21-228,2022-07-28 17:17:00,-98.33,-95.4513889,29.7275
+"Groundwater level above NAVD 1988, ft",LJ-65-21-229,2022-07-28 17:19:00,-169.25,-95.4513889,29.7275
+"Groundwater level above NAVD 1988, ft",LJ-65-21-230 (Southwest Piezometer No. 2),2022-07-28 17:36:00,-196.26,-95.4513889,29.7275
+"Groundwater level above NAVD 1988, ft",LJ-65-21-230 (Southwest Piezometer No. 2),2022-08-30 15:33:00,-198.74,-95.4513889,29.7275
+"Groundwater level above NAVD 1988, ft",LJ-65-22-622 (East End Extensometer),2022-06-28 18:30:00,-133.55,-95.2740556,29.7017222
+"Groundwater level above NAVD 1988, ft",LJ-65-22-622 (East End Extensometer),2022-07-28 16:35:00,-135.13,-95.2740556,29.7017222
+"Groundwater level above NAVD 1988, ft",LJ-65-22-622 (East End Extensometer),2022-08-30 12:56:00,-136.72,-95.2740556,29.7017222
+"Groundwater level above NAVD 1988, ft",LJ-65-22-623,2022-07-28 16:30:00,16.36,-95.2741667,29.70194444
+"Groundwater level above NAVD 1988, ft",LJ-65-22-9xx (MW-102),2022-06-21 13:36:00,-82.68,-95.250175,29.65988889
+"Groundwater level above NAVD 1988, ft",LJ-65-22-9xx (MW-102),2022-07-12 13:40:00,-82.68,-95.250175,29.65988889
+"Groundwater level above NAVD 1988, ft",LJ-65-22-9xx (MW-102),2022-08-11 14:59:00,-82.98,-95.250175,29.65988889
+"Groundwater level above NAVD 1988, ft",LJ-65-22-9xx (MW-102),2022-09-14 15:20:00,-83.02,-95.250175,29.65988889
+"Groundwater level above NAVD 1988, ft",LJ-65-23-320,2022-07-28 15:11:00,-93.18,-95.1591667,29.71055556
+"Groundwater level above NAVD 1988, ft",LJ-65-23-321,2022-07-28 15:04:00,15.43,-95.1591667,29.71055556
+"Groundwater level above NAVD 1988, ft",LJ-65-23-322 (Pasadena Extensometer),2022-06-28 17:42:00,-73.43,-95.159275,29.71015833
+"Groundwater level above NAVD 1988, ft",LJ-65-23-322 (Pasadena Extensometer),2022-07-28 14:55:00,-73.49,-95.159275,29.71015833
+"Groundwater level above NAVD 1988, ft",LJ-65-23-322 (Pasadena Extensometer),2022-08-30 13:46:00,-73.43,-95.159275,29.71015833
+"Groundwater level above NAVD 1988, ft",LJ-65-23-323,2022-07-28 15:19:00,-125.42,-95.1591667,29.71055556
+"Groundwater level above NAVD 1988, ft",LJ-65-23-324,2022-07-28 14:56:00,-126.23,-95.1591667,29.71055556
+"Groundwater level above NAVD 1988, ft",LJ-65-23-325,2022-07-28 15:18:00,-122.93,-95.1591667,29.71055556
+"Groundwater level above NAVD 1988, ft",LJ-65-23-326,2022-07-28 15:00:00,-123.58,-95.1591667,29.71055556
+"Groundwater level above NAVD 1988, ft",LJ-65-24-215,2022-07-27 18:56:00,-34.24,-95.08,29.74277778
+"Groundwater level above NAVD 1988, ft",LJ-65-24-216,2022-07-27 18:58:00,5.66,-95.08,29.74277778
+"Groundwater level above NAVD 1988, ft",LJ-65-24-217,2022-07-27 18:59:00,5.61,-95.08,29.74277778
+"Groundwater level above NAVD 1988, ft",LJ-65-32-401 (NASA Extensometer),2022-06-28 15:33:00,-85.7,-95.0960278,29.5518611
+"Groundwater level above NAVD 1988, ft",LJ-65-32-401 (NASA Extensometer),2022-07-27 16:05:00,-85.82,-95.0960278,29.5518611
+"Groundwater level above NAVD 1988, ft",LJ-65-32-401 (NASA Extensometer),2022-08-30 15:31:00,-85.96,-95.0960278,29.5518611
+"Groundwater level above NAVD 1988, ft",LJ-65-32-424 (Clear Lake Shallow Extensometer),2022-06-28 16:09:00,-88.17,-95.1192778,29.56375
+"Groundwater level above NAVD 1988, ft",LJ-65-32-424 (Clear Lake Shallow Extensometer),2022-07-27 16:35:00,-89.63,-95.1192778,29.56375
+"Groundwater level above NAVD 1988, ft",LJ-65-32-424 (Clear Lake Shallow Extensometer),2022-08-30 14:45:00,-90.63,-95.1192778,29.56375
+"Groundwater level above NAVD 1988, ft",LJ-65-32-425,2022-07-27 16:44:00,-13.35,-95.1186111,29.5636111
+"Groundwater level above NAVD 1988, ft",LJ-65-32-426,2022-07-27 16:38:00,-67.06,-95.1186111,29.5636111
+"Groundwater level above NAVD 1988, ft",LJ-65-32-427,2022-07-27 16:33:00,-97.71,-95.1186111,29.5636111
+"Groundwater level above NAVD 1988, ft",LJ-65-32-428 (Clear Lake Deep Extensometer),2022-06-28 16:35:00,-114.78,-95.1189444,29.56341667
+"Groundwater level above NAVD 1988, ft",LJ-65-32-428 (Clear Lake Deep Extensometer),2022-07-27 16:50:00,-114.81,-95.1189444,29.56341667
+"Groundwater level above NAVD 1988, ft",LJ-65-32-428 (Clear Lake Deep Extensometer),2022-07-28 15:59:00,-114.79,-95.1189444,29.56341667
+"Groundwater level above NAVD 1988, ft",LJ-65-32-428 (Clear Lake Deep Extensometer),2022-08-30 15:01:00,-114.67,-95.1189444,29.56341667
+"Groundwater level above NAVD 1988, ft",LJ-65-32-625 (Seabrook Extensometer),2022-06-28 15:01:00,-86.63,-95.0214556,29.56479444
+"Groundwater level above NAVD 1988, ft",LJ-65-32-625 (Seabrook Extensometer),2022-07-27 15:31:00,-86.63,-95.0214556,29.56479444
+"Groundwater level above NAVD 1988, ft",LJ-65-32-625 (Seabrook Extensometer),2022-08-30 16:03:00,-86.52,-95.0214556,29.56479444
+"Groundwater level above NAVD 1988, ft",LJ-65-32-626,2022-07-27 15:42:00,-86.48,-95.0213889,29.5647222
+"Groundwater level above NAVD 1988, ft",LJ-65-32-628,2022-07-27 15:29:00,-6.93,-95.0213889,29.5647222
+"Groundwater level above NAVD 1988, ft",LJ-65-32-629,2022-07-27 15:38:00,-55.26,-95.0213889,29.5647222
+"Groundwater level above NAVD 1988, ft",LJ-65-32-630,2022-07-27 15:42:00,-86.33,-95.0213889,29.5647222
+"Groundwater level above NAVD 1988, ft",LJ-65-32-631,2022-07-27 15:24:00,1.77,-95.0213889,29.5647222
+"Groundwater level above NAVD 1988, ft",MBOWN-228 - JL-49-04-466 (CWF-4A),2022-07-07 17:35:00,3749.91,-106.6127696,31.95343558
+"Groundwater level above NAVD 1988, ft",MBOWN-228 - JL-49-04-466 (CWF-4A),2022-08-18 18:43:00,3749.69,-106.6127696,31.95343558
+"Groundwater level above NAVD 1988, ft",MBOWN-228 - JL-49-04-466 (CWF-4A),2022-09-22 17:18:00,3749.43,-106.6127696,31.95343558
+"Groundwater level above NAVD 1988, ft",MBOWN-229 - JL-49-04-467 (CWF-4B),2022-07-07 17:38:00,3746.97,-106.6127696,31.95343558
+"Groundwater level above NAVD 1988, ft",MBOWN-229 - JL-49-04-467 (CWF-4B),2022-08-18 18:44:00,3747.97,-106.6127696,31.95343558
+"Groundwater level above NAVD 1988, ft",MBOWN-229 - JL-49-04-467 (CWF-4B),2022-09-22 17:20:00,3746.44,-106.6127696,31.95343558
+"Groundwater level above NAVD 1988, ft",MBOWN-230 - JL-49-04-468 (CWF-4C),2022-07-07 17:41:00,3683.78,-106.6127696,31.95343558
+"Groundwater level above NAVD 1988, ft",MBOWN-230 - JL-49-04-468 (CWF-4C),2022-08-18 18:45:00,3668.37,-106.6127696,31.95343558
+"Groundwater level above NAVD 1988, ft",MBOWN-230 - JL-49-04-468 (CWF-4C),2022-09-22 17:22:00,3658.96,-106.6127696,31.95343558
+"Groundwater level above NAVD 1988, ft",MBOWN-231 - JL-49-04-469 (CWF-4D),2022-07-07 17:45:00,3688.11,-106.6127696,31.95343558
+"Groundwater level above NAVD 1988, ft",MBOWN-231 - JL-49-04-469 (CWF-4D),2022-08-18 18:47:00,3660.04,-106.6127696,31.95343558
+"Groundwater level above NAVD 1988, ft",MBOWN-231 - JL-49-04-469 (CWF-4D),2022-09-22 17:25:00,3669.8,-106.6127696,31.95343558
+"Groundwater level above NAVD 1988, ft",MBOWN-232 - JL-49-04-470 (CWF-3A),2022-07-07 17:09:00,3754.68,-106.6072139,31.95371337
+"Groundwater level above NAVD 1988, ft",MBOWN-232 - JL-49-04-470 (CWF-3A),2022-08-18 17:59:00,3757.82,-106.6072139,31.95371337
+"Groundwater level above NAVD 1988, ft",MBOWN-232 - JL-49-04-470 (CWF-3A),2022-09-22 17:00:00,3754.44,-106.6072139,31.95371337
+"Groundwater level above NAVD 1988, ft",MBOWN-233 - JL-49-04-471 (CWF-3B),2022-07-07 17:13:00,3756.68,-106.6072139,31.95371337
+"Groundwater level above NAVD 1988, ft",MBOWN-233 - JL-49-04-471 (CWF-3B),2022-08-18 18:01:00,3750.5,-106.6072139,31.95371337
+"Groundwater level above NAVD 1988, ft",MBOWN-233 - JL-49-04-471 (CWF-3B),2022-09-22 17:02:00,3746.54,-106.6072139,31.95371337
+"Groundwater level above NAVD 1988, ft",MBOWN-234 - JL-49-04-472 (CWF-3C),2022-07-07 17:16:00,3677.84,-106.6072139,31.95371337
+"Groundwater level above NAVD 1988, ft",MBOWN-234 - JL-49-04-472 (CWF-3C),2022-08-18 18:02:00,3663.16,-106.6072139,31.95371337
+"Groundwater level above NAVD 1988, ft",MBOWN-234 - JL-49-04-472 (CWF-3C),2022-09-22 17:03:00,3653.59,-106.6072139,31.95371337
+"Groundwater level above NAVD 1988, ft",MBOWN-235 - JL-49-04-473 (CWF-3D),2022-07-07 17:20:00,3688.04,-106.6069361,31.95399114
+"Groundwater level above NAVD 1988, ft",MBOWN-235 - JL-49-04-473 (CWF-3D),2022-08-18 18:04:00,-999999.0,-106.6069361,31.95399114
+"Groundwater level above NAVD 1988, ft",MBOWN-235 - JL-49-04-473 (CWF-3D),2022-09-22 17:07:00,-999999.0,-106.6069361,31.95399114
+"Groundwater level above NAVD 1988, ft",MBOWN-236 - JL-49-04-474 (CWF-2A),2022-07-07 16:55:00,3762.55,-106.605825,31.95371338
+"Groundwater level above NAVD 1988, ft",MBOWN-236 - JL-49-04-474 (CWF-2A),2022-08-18 17:20:00,3764.96,-106.605825,31.95371338
+"Groundwater level above NAVD 1988, ft",MBOWN-236 - JL-49-04-474 (CWF-2A),2022-09-22 16:33:00,3760.66,-106.605825,31.95371338
+"Groundwater level above NAVD 1988, ft",MBOWN-237 - JL-49-04-475 (CWF-2B),2022-07-07 16:51:00,3747.3,-106.605825,31.95371338
+"Groundwater level above NAVD 1988, ft",MBOWN-237 - JL-49-04-475 (CWF-2B),2022-08-18 17:22:00,3748.98,-106.605825,31.95371338
+"Groundwater level above NAVD 1988, ft",MBOWN-237 - JL-49-04-475 (CWF-2B),2022-09-22 16:35:00,3744.6,-106.605825,31.95371338
+"Groundwater level above NAVD 1988, ft",MBOWN-238 - JL-49-04-476 (CWF-2C),2022-07-07 16:40:00,3680.37,-106.605825,31.95371338
+"Groundwater level above NAVD 1988, ft",MBOWN-238 - JL-49-04-476 (CWF-2C),2022-08-18 17:23:00,3666.97,-106.605825,31.95371338
+"Groundwater level above NAVD 1988, ft",MBOWN-238 - JL-49-04-476 (CWF-2C),2022-09-22 16:41:00,3657.41,-106.605825,31.95371338
+"Groundwater level above NAVD 1988, ft",MBOWN-239 - JL-49-04-477 (CWF-2D),2022-07-07 16:36:00,3688.81,-106.605825,31.95371338
+"Groundwater level above NAVD 1988, ft",MBOWN-239 - JL-49-04-477 (CWF-2D),2022-08-18 17:35:00,3656.53,-106.605825,31.95371338
+"Groundwater level above NAVD 1988, ft",MBOWN-239 - JL-49-04-477 (CWF-2D),2022-09-22 16:37:00,3647.19,-106.605825,31.95371338
+"Groundwater level above NAVD 1988, ft",MBOWN-240 - JL-49-04-478 (CWF-1A),2022-07-07 16:13:00,3767.38,-106.604436,31.95371338
+"Groundwater level above NAVD 1988, ft",MBOWN-240 - JL-49-04-478 (CWF-1A),2022-09-22 16:17:00,3759.45,-106.604436,31.95371338
+"Groundwater level above NAVD 1988, ft",MBOWN-241 - JL-49-04-479 (CWF-1B),2022-07-07 15:56:00,3743.82,-106.604436,31.95371338
+"Groundwater level above NAVD 1988, ft",MBOWN-241 - JL-49-04-479 (CWF-1B),2022-08-18 16:47:00,3745.52,-106.604436,31.95371338
+"Groundwater level above NAVD 1988, ft",MBOWN-241 - JL-49-04-479 (CWF-1B),2022-09-22 16:15:00,3740.67,-106.604436,31.95371338
+"Groundwater level above NAVD 1988, ft",MBOWN-242 - JL-49-04-480 (CWF-1C),2022-07-07 15:52:00,3683.36,-106.604436,31.95371338
+"Groundwater level above NAVD 1988, ft",MBOWN-242 - JL-49-04-480 (CWF-1C),2022-08-18 16:48:00,3671.02,-106.604436,31.95371338
+"Groundwater level above NAVD 1988, ft",MBOWN-242 - JL-49-04-480 (CWF-1C),2022-09-22 16:12:00,3661.26,-106.604436,31.95371338
+"Groundwater level above NAVD 1988, ft",MBOWN-243 - JL-49-04-481 (CWF-1D),2022-07-07 15:46:00,3689.85,-106.604436,31.95371338
+"Groundwater level above NAVD 1988, ft",MBOWN-243 - JL-49-04-481 (CWF-1D),2022-08-18 16:50:00,3661.81,-106.604436,31.95371338
+"Groundwater level above NAVD 1988, ft",MBOWN-243 - JL-49-04-481 (CWF-1D),2022-09-22 16:08:00,3652.21,-106.604436,31.95371338
+"Groundwater level above NAVD 1988, ft",RT-17-10-3xx (Red04),2022-09-15 00:01:00,429.79,-95.788175,33.8337472
+"Groundwater level above NAVD 1988, ft",RT-17-13-3xx (Red02),2022-09-14 19:24:00,401.56,-95.4095361,33.8415833
+"Groundwater level above NAVD 1988, ft",RU-10-53-602,2022-08-17 14:41:00,3512.8,-102.4040556,34.1695
+"Groundwater level above NAVD 1988, ft",TD-69-32-703 (MED-1),2022-06-21 13:20:00,943.64,-99.1101102,29.53411853
+"Groundwater level above NAVD 1988, ft",TD-69-38-601 (Seco Creek Well),2022-08-23 14:19:00,774.37,-99.2833738,29.43856519
+"Groundwater level above NAVD 1988, ft",TS-60-35-202 (Flower Follet),2022-06-23 15:13:00,248.34,-95.7106111,30.49883333
+"Groundwater level above NAVD 1988, ft",TS-60-35-202 (Flower Follet),2022-08-11 14:36:00,248.28,-95.7106111,30.49883333
+"Groundwater level above NAVD 1988, ft",TS-60-35-202 (Flower Follet),2022-08-30 15:33:00,248.22,-95.7106111,30.49883333
+"Groundwater level above NAVD 1988, ft",TS-60-35-503 (Bailey Grove Piezometer No. 2-A),2022-08-11 15:52:00,223.99,-95.7080556,30.4436111
+"Groundwater level above NAVD 1988, ft",TS-60-35-505 (Bailey Grove Piezometer No. 2-C),2022-08-11 15:48:00,223.58,-95.7080556,30.4436111
+"Groundwater level above NAVD 1988, ft",TS-60-44-805 (Lake Creek Piezometer No. 3-B),2022-08-12 13:59:00,118.65,-95.5769444,30.25138889
+"Groundwater level above NAVD 1988, ft",TS-60-45-412 (City of Conroe Piezometer No. 1),2022-08-10 14:45:00,151.08,-95.4836111,30.33027778
+"Groundwater level above NAVD 1988, ft",TS-60-45-414 (City of Conroe Piezometer No. 3),2022-08-10 14:49:00,184.17,-95.4836111,30.33027778
+"Groundwater level above NAVD 1988, ft",TS-60-53-516 (Needham Piezometer No. 4-A),2022-06-23 16:21:00,-226.25,-95.4575,30.20777778
+"Groundwater level above NAVD 1988, ft",TS-60-53-516 (Needham Piezometer No. 4-A),2022-07-05 14:25:00,-230.87,-95.4575,30.20777778
+"Groundwater level above NAVD 1988, ft",TS-60-53-516 (Needham Piezometer No. 4-A),2022-07-05 17:29:00,-230.85,-95.4575,30.20777778
+"Groundwater level above NAVD 1988, ft",TS-60-53-516 (Needham Piezometer No. 4-A),2022-08-04 18:57:00,-244.09,-95.4575,30.20777778
+"Groundwater level above NAVD 1988, ft",TS-60-53-718 (Woodlands Piezometer No. 1-A),2022-08-12 15:02:00,-14.62,-95.4630556,30.14
+"Groundwater level above NAVD 1988, ft",TS-60-55-710 (New Caney Piezometer No. 7-A),2022-06-23 17:10:00,-37.42,-95.2425,30.14694444
+"Groundwater level above NAVD 1988, ft",TS-60-55-710 (New Caney Piezometer No. 7-A),2022-09-12 16:17:00,-40.5,-95.2425,30.14694444
+"Groundwater level above NAVD 1988, ft",US-53-09-301,2022-08-09 18:11:00,2903.65,-102.8927806,30.8528611
+"Groundwater level above NAVD 1988, ft",XU-32-08-2xx (P-1),2022-08-24 00:54:00,489.25,-97.0558228,32.97461083
+"Groundwater level above NAVD 1988, ft",XU-32-08-2xx (P-10A),2022-08-24 00:18:00,463.29,-97.0542892,32.9675947
+"Groundwater level above NAVD 1988, ft",XU-32-08-2xx (P-11A),2022-08-24 00:12:00,470.91,-97.0539789,32.9655325
+"Groundwater level above NAVD 1988, ft",XU-32-08-2xx (P-14),2022-08-24 00:58:00,495.09,-97.0564122,32.97618889
+"Groundwater level above NAVD 1988, ft",XU-32-08-2xx (P-1A),2022-08-24 00:52:00,501.03,-97.0558172,32.9745872
+"Groundwater level above NAVD 1988, ft",XU-32-08-2xx (P-2),2022-08-24 00:47:00,488.24,-97.0556603,32.97366583
+"Groundwater level above NAVD 1988, ft",XU-32-08-2xx (P-3),2022-08-24 01:12:00,488.4,-97.0558425,32.973015
+"Groundwater level above NAVD 1988, ft",XU-32-08-2xx (P-4),2022-08-24 00:28:00,487.15,-97.0556036,32.9730511
+"Groundwater level above NAVD 1988, ft",XU-32-08-2xx (P-4A),2022-08-24 00:32:00,484.09,-97.0556097,32.97309944
+"Groundwater level above NAVD 1988, ft",XU-32-08-2xx (P-5),2022-08-24 00:38:00,486.29,-97.0553878,32.97327028
+"Groundwater level above NAVD 1988, ft",XU-32-08-2xx (P-5),2022-08-25 02:07:00,486.29,-97.0553878,32.97327028
+"Groundwater level above NAVD 1988, ft",XU-32-08-2xx (P-5A),2022-08-24 00:37:00,482.62,-97.0553167,32.9732575
+"Groundwater level above NAVD 1988, ft",XU-32-08-2xx (P-5A),2022-08-25 01:54:00,482.58,-97.0553167,32.9732575
+"Groundwater level above NAVD 1988, ft",XU-32-08-2xx (P-7),2022-08-25 02:11:00,487.54,-97.0554661,32.97299694
+"Groundwater level above NAVD 1988, ft",XU-32-08-2xx (P-8),2022-08-25 02:20:00,485.38,-97.0551833,32.97324444
+"Groundwater level above NAVD 1988, ft",XU-32-08-2xx (P-8A),2022-08-25 02:17:00,483.97,-97.0553839,32.97304
+"Groundwater level above NAVD 1988, ft",YD-58-50-301 (Lovelady),2022-07-20 16:45:00,469.91,-97.7815833,30.21033889
+"Groundwater level above NAVD 1988, ft",YD-58-50-301 (Lovelady),2022-09-19 16:45:00,464.55,-97.7815833,30.21033889
+"Groundwater level above NAVD 1988, ft",YD-58-50-301 (Lovelady),2022-09-19 17:00:00,464.57,-97.7815833,30.21033889
+"Groundwater level above NAVD 1988, ft",YP-69-35-602 (Frio Reference Well),2022-08-17 16:34:00,1100.88,-99.6647745,29.44606596
+"Groundwater level above NAVD 1988, ft",YP-69-35-602 (Frio Reference Well),2022-09-07 15:34:00,1100.47,-99.6647745,29.44606596
+"Groundwater level above NAVD 1988, ft",YU-60-28-802 (Sam Hou. Nat. Forest Piezo. No. 1),2022-08-10 18:58:00,236.8,-95.5639167,30.52816667
+"Groundwater level above NGVD 1929, feet",AS-69-12-206 (Bandera County Edwards GW Well 1),2022-06-22 12:30:00,2034.74,-99.5671889,29.8677972
+"Groundwater level above NGVD 1929, feet",AS-69-12-206 (Bandera County Edwards GW Well 1),2022-08-09 13:45:00,2034.58,-99.5671889,29.8677972
+"Groundwater level above NGVD 1929, feet",AY-68-27-609 (Western Oak),2022-07-07 13:30:00,723.19,-98.6616667,29.56805556
+"Groundwater level above NGVD 1929, feet",AY-68-27-609 (Western Oak),2022-08-22 13:46:00,717.07,-98.6616667,29.56805556
+"Groundwater level above NGVD 1929, feet",AY-68-27-610 (Parkwood Park),2022-08-25 13:16:00,688.58,-98.6355556,29.54777778
+"Groundwater level above NGVD 1929, feet",AY-68-27-610 (Parkwood Park),2022-08-25 17:48:00,688.6,-98.6355556,29.54777778
+"Groundwater level above NGVD 1929, feet",AY-68-28-202 (Shavano Park 2),2022-08-30 15:30:00,705.18,-98.5486304,29.5877273
+"Groundwater level above NGVD 1929, feet",AY-68-28-211 (Shavano Park at Fawn Drive),2022-08-30 12:50:00,727.88,-98.5486111,29.58777778
+"Groundwater level above NGVD 1929, feet",AY-68-28-211 (Shavano Park at Fawn Drive),2022-09-20 14:18:00,727.32,-98.5486111,29.58777778
+"Groundwater level above NGVD 1929, feet",AY-68-29-112 (Donella),2022-08-31 13:34:00,704.25,-98.48,29.5997222
+"Groundwater level above NGVD 1929, feet",AY-68-29-112 (Donella),2022-09-20 13:33:00,704.34,-98.48,29.5997222
+"Groundwater level above NGVD 1929, feet",AY-68-36-132 (Z DED),2022-06-27 15:53:00,639.9,-98.5955556,29.49527778
+"Groundwater level above NGVD 1929, feet",AY-68-36-132 (Z DED),2022-08-24 14:54:00,641.21,-98.5955556,29.49527778
+"Groundwater level above NGVD 1929, feet",BA-28-03-601,2022-09-06 14:14:00,2928.63,-101.6379214,32.93065589
+"Groundwater level above NGVD 1929, feet",JY-65-29-106 (Fort Bend Extensometer),2022-07-28 20:04:00,68.15,-95.7477778,29.72416667
+"Groundwater level above NGVD 1929, feet",JY-65-29-106 (Fort Bend Extensometer),2022-08-30 13:38:00,68.25,-95.7477778,29.72416667
+"Groundwater level above NGVD 1929, feet",KH-64-33-915,2022-07-27 14:29:00,-15.02,-94.8952778,29.41638889
+"Groundwater level above NGVD 1929, feet",KH-64-33-916,2022-07-27 14:37:00,-23.92,-94.8952778,29.41638889
+"Groundwater level above NGVD 1929, feet",KH-64-33-917,2022-07-27 14:40:00,-27.11,-94.8952778,29.41638889
+"Groundwater level above NGVD 1929, feet",KH-64-33-918,2022-07-27 14:44:00,-42.0,-94.8952778,29.41638889
+"Groundwater level above NGVD 1929, feet",KH-64-33-919,2022-07-27 14:48:00,-42.39,-94.8952778,29.41638889
+"Groundwater level above NGVD 1929, feet",KH-64-33-920 (Texas City Extensometer),2022-06-28 14:06:00,-40.69,-94.8950028,29.416325
+"Groundwater level above NGVD 1929, feet",KH-64-33-920 (Texas City Extensometer),2022-07-27 14:36:00,-40.65,-94.8950028,29.416325
+"Groundwater level above NGVD 1929, feet",KH-64-33-920 (Texas City Extensometer),2022-08-30 17:40:00,-40.48,-94.8950028,29.416325
+"Groundwater level above NGVD 1929, feet",KH-64-33-920 (Texas City Extensometer),2022-09-06 16:31:00,-40.67,-94.8950028,29.416325
+"Groundwater level above NGVD 1929, feet",KH-64-33-921,2022-07-27 14:52:00,-8.16,-94.8952778,29.41638889
+"Groundwater level above NGVD 1929, feet",KH-65-40-707 (Galveston),2022-06-28 13:16:00,-64.58,-95.1102778,29.39416667
+"Groundwater level above NGVD 1929, feet",KH-65-40-707 (Galveston),2022-09-14 14:01:00,-65.87,-95.1102778,29.39416667
+"Groundwater level above NGVD 1929, feet",LJ-65-07-902,2022-07-28 14:20:00,-30.63,-95.1430556,29.91388889
+"Groundwater level above NGVD 1929, feet",LJ-65-07-905 (Lake Houston Piezometer No. 2),2022-07-28 13:59:00,-31.63,-95.145,29.91388889
+"Groundwater level above NGVD 1929, feet",LJ-65-07-905 (Lake Houston Piezometer No. 2),2022-08-30 20:36:00,-31.84,-95.145,29.91388889
+"Groundwater level above NGVD 1929, feet",LJ-65-07-906,2022-07-28 13:49:00,-122.12,-95.145,29.91388889
+"Groundwater level above NGVD 1929, feet",LJ-65-07-907,2022-07-28 13:54:00,-105.03,-95.145,29.91388889
+"Groundwater level above NGVD 1929, feet",LJ-65-07-908,2022-07-28 13:57:00,-120.04,-95.145,29.91388889
+"Groundwater level above NGVD 1929, feet",LJ-65-07-909 (Lake Houston Extensometer),2022-07-28 13:53:00,-115.01,-95.1455278,29.9132222
+"Groundwater level above NGVD 1929, feet",LJ-65-07-909 (Lake Houston Extensometer),2022-08-30 20:19:00,-114.57,-95.1455278,29.9132222
+"Groundwater level above NGVD 1929, feet",LJ-65-12-725 (Addicks Piezometer No. 2),2022-08-30 17:49:00,75.32,-95.5866667,29.79083333
+"Groundwater level above NGVD 1929, feet",LJ-65-12-726 (Addicks Extensometer),2022-07-28 19:08:00,-268.86,-95.5861389,29.79069444
+"Groundwater level above NGVD 1929, feet",LJ-65-12-726 (Addicks Extensometer),2022-08-30 17:40:00,-280.61,-95.5861389,29.79069444
+"Groundwater level above NGVD 1929, feet",LJ-65-12-729 (Addicks Piezometer No. 1),2022-06-28 17:52:00,-61.8,-95.5866667,29.79083333
+"Groundwater level above NGVD 1929, feet",LJ-65-12-729 (Addicks Piezometer No. 1),2022-07-28 19:09:00,-61.8,-95.5866667,29.79083333
+"Groundwater level above NGVD 1929, feet",LJ-65-12-729 (Addicks Piezometer No. 1),2022-08-30 17:52:00,-61.93,-95.5866667,29.79083333
+"Groundwater level above NGVD 1929, feet",LJ-65-14-735,2022-07-28 18:25:00,-169.41,-95.3338889,29.79138889
+"Groundwater level above NGVD 1929, feet",LJ-65-14-738 (Northeast Piezometer No. 4),2022-07-28 18:35:00,-122.06,-95.3338889,29.79138889
+"Groundwater level above NGVD 1929, feet",LJ-65-14-738 (Northeast Piezometer No. 4),2022-08-30 16:43:00,-124.17,-95.3338889,29.79138889
+"Groundwater level above NGVD 1929, feet",LJ-65-14-742,2022-07-28 18:22:00,-138.38,-95.3338889,29.79138889
+"Groundwater level above NGVD 1929, feet",LJ-65-14-745,2022-07-28 18:17:00,-86.02,-95.3338889,29.79138889
+"Groundwater level above NGVD 1929, feet",LJ-65-14-746 (Northeast Extensometer),2022-07-28 18:28:00,-189.01,-95.3339722,29.79088889
+"Groundwater level above NGVD 1929, feet",LJ-65-14-746 (Northeast Extensometer),2022-08-30 16:36:00,-188.16,-95.3339722,29.79088889
+"Groundwater level above NGVD 1929, feet",LJ-65-16-904,2022-07-27 18:04:00,-82.17,-95.0305556,29.75777778
+"Groundwater level above NGVD 1929, feet",LJ-65-16-922,2022-07-27 17:52:00,3.15,-95.0305556,29.75777778
+"Groundwater level above NGVD 1929, feet",LJ-65-16-923,2022-07-27 17:55:00,-48.68,-95.0305556,29.75777778
+"Groundwater level above NGVD 1929, feet",LJ-65-16-925,2022-07-27 17:58:00,-73.39,-95.0305556,29.75777778
+"Groundwater level above NGVD 1929, feet",LJ-65-16-930 (Baytown C-1 Extensometer),2022-07-27 17:48:00,-79.49,-95.03065,29.75784167
+"Groundwater level above NGVD 1929, feet",LJ-65-16-930 (Baytown C-1 Extensometer),2022-08-30 19:05:00,-78.98,-95.03065,29.75784167
+"Groundwater level above NGVD 1929, feet",LJ-65-16-931 (Baytown C-2 Extensometer),2022-07-27 18:00:00,-77.56,-95.03065,29.75784167
+"Groundwater level above NGVD 1929, feet",LJ-65-16-931 (Baytown C-2 Extensometer),2022-08-30 19:11:00,-77.55,-95.03065,29.75784167
+"Groundwater level above NGVD 1929, feet",LJ-65-16-932,2022-07-27 17:47:00,-105.48,-95.0305556,29.75777778
+"Groundwater level above NGVD 1929, feet",LJ-65-16-933,2022-07-27 17:41:00,14.37,-95.0305556,29.75777778
+"Groundwater level above NGVD 1929, feet",LJ-65-21-226 (Southwest Extensometer),2022-07-28 17:16:00,-167.78,-95.4507778,29.727
+"Groundwater level above NGVD 1929, feet",LJ-65-21-226 (Southwest Extensometer),2022-08-30 15:28:00,-167.75,-95.4507778,29.727
+"Groundwater level above NGVD 1929, feet",LJ-65-21-227,2022-07-28 17:10:00,-214.47,-95.4513889,29.7275
+"Groundwater level above NGVD 1929, feet",LJ-65-21-228,2022-07-28 17:17:00,-98.17,-95.4513889,29.7275
+"Groundwater level above NGVD 1929, feet",LJ-65-21-229,2022-07-28 17:19:00,-169.09,-95.4513889,29.7275
+"Groundwater level above NGVD 1929, feet",LJ-65-21-230 (Southwest Piezometer No. 2),2022-07-28 17:36:00,-196.1,-95.4513889,29.7275
+"Groundwater level above NGVD 1929, feet",LJ-65-21-230 (Southwest Piezometer No. 2),2022-08-30 15:33:00,-198.58,-95.4513889,29.7275
+"Groundwater level above NGVD 1929, feet",LJ-65-22-622 (East End Extensometer),2022-06-28 18:30:00,-133.58,-95.2740556,29.7017222
+"Groundwater level above NGVD 1929, feet",LJ-65-22-622 (East End Extensometer),2022-07-28 16:35:00,-135.16,-95.2740556,29.7017222
+"Groundwater level above NGVD 1929, feet",LJ-65-22-622 (East End Extensometer),2022-08-30 12:56:00,-136.75,-95.2740556,29.7017222
+"Groundwater level above NGVD 1929, feet",LJ-65-22-623,2022-07-28 16:30:00,16.33,-95.2741667,29.70194444
+"Groundwater level above NGVD 1929, feet",LJ-65-23-320,2022-07-28 15:11:00,-93.19,-95.1591667,29.71055556
+"Groundwater level above NGVD 1929, feet",LJ-65-23-321,2022-07-28 15:04:00,15.42,-95.1591667,29.71055556
+"Groundwater level above NGVD 1929, feet",LJ-65-23-322 (Pasadena Extensometer),2022-06-28 17:42:00,-73.44,-95.159275,29.71015833
+"Groundwater level above NGVD 1929, feet",LJ-65-23-322 (Pasadena Extensometer),2022-07-28 14:55:00,-73.5,-95.159275,29.71015833
+"Groundwater level above NGVD 1929, feet",LJ-65-23-322 (Pasadena Extensometer),2022-08-30 13:46:00,-73.44,-95.159275,29.71015833
+"Groundwater level above NGVD 1929, feet",LJ-65-23-323,2022-07-28 15:19:00,-125.43,-95.1591667,29.71055556
+"Groundwater level above NGVD 1929, feet",LJ-65-23-324,2022-07-28 14:56:00,-126.24,-95.1591667,29.71055556
+"Groundwater level above NGVD 1929, feet",LJ-65-23-325,2022-07-28 15:18:00,-122.94,-95.1591667,29.71055556
+"Groundwater level above NGVD 1929, feet",LJ-65-23-326,2022-07-28 15:00:00,-123.59,-95.1591667,29.71055556
+"Groundwater level above NGVD 1929, feet",LJ-65-24-215,2022-07-27 18:56:00,-34.25,-95.08,29.74277778
+"Groundwater level above NGVD 1929, feet",LJ-65-24-216,2022-07-27 18:58:00,5.65,-95.08,29.74277778
+"Groundwater level above NGVD 1929, feet",LJ-65-24-217,2022-07-27 18:59:00,5.6,-95.08,29.74277778
+"Groundwater level above NGVD 1929, feet",LJ-65-32-401 (NASA Extensometer),2022-06-28 15:33:00,-85.7,-95.0960278,29.5518611
+"Groundwater level above NGVD 1929, feet",LJ-65-32-401 (NASA Extensometer),2022-07-27 16:05:00,-85.82,-95.0960278,29.5518611
+"Groundwater level above NGVD 1929, feet",LJ-65-32-401 (NASA Extensometer),2022-08-30 15:31:00,-85.96,-95.0960278,29.5518611
+"Groundwater level above NGVD 1929, feet",LJ-65-32-424 (Clear Lake Shallow Extensometer),2022-06-28 16:09:00,-88.17,-95.1192778,29.56375
+"Groundwater level above NGVD 1929, feet",LJ-65-32-424 (Clear Lake Shallow Extensometer),2022-07-27 16:35:00,-89.63,-95.1192778,29.56375
+"Groundwater level above NGVD 1929, feet",LJ-65-32-424 (Clear Lake Shallow Extensometer),2022-08-30 14:45:00,-90.63,-95.1192778,29.56375
+"Groundwater level above NGVD 1929, feet",LJ-65-32-425,2022-07-27 16:44:00,-13.35,-95.1186111,29.5636111
+"Groundwater level above NGVD 1929, feet",LJ-65-32-426,2022-07-27 16:38:00,-67.06,-95.1186111,29.5636111
+"Groundwater level above NGVD 1929, feet",LJ-65-32-427,2022-07-27 16:33:00,-97.71,-95.1186111,29.5636111
+"Groundwater level above NGVD 1929, feet",LJ-65-32-428 (Clear Lake Deep Extensometer),2022-06-28 16:35:00,-114.78,-95.1189444,29.56341667
+"Groundwater level above NGVD 1929, feet",LJ-65-32-428 (Clear Lake Deep Extensometer),2022-07-27 16:50:00,-114.81,-95.1189444,29.56341667
+"Groundwater level above NGVD 1929, feet",LJ-65-32-428 (Clear Lake Deep Extensometer),2022-07-28 15:59:00,-114.79,-95.1189444,29.56341667
+"Groundwater level above NGVD 1929, feet",LJ-65-32-428 (Clear Lake Deep Extensometer),2022-08-30 15:01:00,-114.67,-95.1189444,29.56341667
+"Groundwater level above NGVD 1929, feet",LJ-65-32-625 (Seabrook Extensometer),2022-06-28 15:01:00,-86.64,-95.0214556,29.56479444
+"Groundwater level above NGVD 1929, feet",LJ-65-32-625 (Seabrook Extensometer),2022-07-27 15:31:00,-86.64,-95.0214556,29.56479444
+"Groundwater level above NGVD 1929, feet",LJ-65-32-625 (Seabrook Extensometer),2022-08-30 16:03:00,-86.53,-95.0214556,29.56479444
+"Groundwater level above NGVD 1929, feet",LJ-65-32-626,2022-07-27 15:42:00,-86.49,-95.0213889,29.5647222
+"Groundwater level above NGVD 1929, feet",LJ-65-32-628,2022-07-27 15:29:00,-6.94,-95.0213889,29.5647222
+"Groundwater level above NGVD 1929, feet",LJ-65-32-629,2022-07-27 15:38:00,-55.27,-95.0213889,29.5647222
+"Groundwater level above NGVD 1929, feet",LJ-65-32-630,2022-07-27 15:42:00,-86.34,-95.0213889,29.5647222
+"Groundwater level above NGVD 1929, feet",LJ-65-32-631,2022-07-27 15:24:00,1.76,-95.0213889,29.5647222
+"Groundwater level above NGVD 1929, feet",MBOWN-228 - JL-49-04-466 (CWF-4A),2022-07-07 17:35:00,3748.22,-106.6127696,31.95343558
+"Groundwater level above NGVD 1929, feet",MBOWN-228 - JL-49-04-466 (CWF-4A),2022-08-18 18:43:00,3748.0,-106.6127696,31.95343558
+"Groundwater level above NGVD 1929, feet",MBOWN-228 - JL-49-04-466 (CWF-4A),2022-09-22 17:18:00,3747.74,-106.6127696,31.95343558
+"Groundwater level above NGVD 1929, feet",MBOWN-229 - JL-49-04-467 (CWF-4B),2022-07-07 17:38:00,3745.28,-106.6127696,31.95343558
+"Groundwater level above NGVD 1929, feet",MBOWN-229 - JL-49-04-467 (CWF-4B),2022-08-18 18:44:00,3746.28,-106.6127696,31.95343558
+"Groundwater level above NGVD 1929, feet",MBOWN-229 - JL-49-04-467 (CWF-4B),2022-09-22 17:20:00,3744.75,-106.6127696,31.95343558
+"Groundwater level above NGVD 1929, feet",MBOWN-230 - JL-49-04-468 (CWF-4C),2022-07-07 17:41:00,3682.09,-106.6127696,31.95343558
+"Groundwater level above NGVD 1929, feet",MBOWN-230 - JL-49-04-468 (CWF-4C),2022-08-18 18:45:00,3666.68,-106.6127696,31.95343558
+"Groundwater level above NGVD 1929, feet",MBOWN-230 - JL-49-04-468 (CWF-4C),2022-09-22 17:22:00,3657.27,-106.6127696,31.95343558
+"Groundwater level above NGVD 1929, feet",MBOWN-231 - JL-49-04-469 (CWF-4D),2022-07-07 17:45:00,3686.42,-106.6127696,31.95343558
+"Groundwater level above NGVD 1929, feet",MBOWN-231 - JL-49-04-469 (CWF-4D),2022-08-18 18:47:00,3658.35,-106.6127696,31.95343558
+"Groundwater level above NGVD 1929, feet",MBOWN-231 - JL-49-04-469 (CWF-4D),2022-09-22 17:25:00,3668.11,-106.6127696,31.95343558
+"Groundwater level above NGVD 1929, feet",MBOWN-232 - JL-49-04-470 (CWF-3A),2022-07-07 17:09:00,3752.99,-106.6072139,31.95371337
+"Groundwater level above NGVD 1929, feet",MBOWN-232 - JL-49-04-470 (CWF-3A),2022-08-18 17:59:00,3756.13,-106.6072139,31.95371337
+"Groundwater level above NGVD 1929, feet",MBOWN-232 - JL-49-04-470 (CWF-3A),2022-09-22 17:00:00,3752.75,-106.6072139,31.95371337
+"Groundwater level above NGVD 1929, feet",MBOWN-233 - JL-49-04-471 (CWF-3B),2022-07-07 17:13:00,3754.99,-106.6072139,31.95371337
+"Groundwater level above NGVD 1929, feet",MBOWN-233 - JL-49-04-471 (CWF-3B),2022-08-18 18:01:00,3748.81,-106.6072139,31.95371337
+"Groundwater level above NGVD 1929, feet",MBOWN-233 - JL-49-04-471 (CWF-3B),2022-09-22 17:02:00,3744.85,-106.6072139,31.95371337
+"Groundwater level above NGVD 1929, feet",MBOWN-234 - JL-49-04-472 (CWF-3C),2022-07-07 17:16:00,3676.15,-106.6072139,31.95371337
+"Groundwater level above NGVD 1929, feet",MBOWN-234 - JL-49-04-472 (CWF-3C),2022-08-18 18:02:00,3661.47,-106.6072139,31.95371337
+"Groundwater level above NGVD 1929, feet",MBOWN-234 - JL-49-04-472 (CWF-3C),2022-09-22 17:03:00,3651.9,-106.6072139,31.95371337
+"Groundwater level above NGVD 1929, feet",MBOWN-235 - JL-49-04-473 (CWF-3D),2022-07-07 17:20:00,3686.35,-106.6069361,31.95399114
+"Groundwater level above NGVD 1929, feet",MBOWN-235 - JL-49-04-473 (CWF-3D),2022-08-18 18:04:00,-999999.0,-106.6069361,31.95399114
+"Groundwater level above NGVD 1929, feet",MBOWN-235 - JL-49-04-473 (CWF-3D),2022-09-22 17:07:00,-999999.0,-106.6069361,31.95399114
+"Groundwater level above NGVD 1929, feet",MBOWN-236 - JL-49-04-474 (CWF-2A),2022-07-07 16:55:00,3760.86,-106.605825,31.95371338
+"Groundwater level above NGVD 1929, feet",MBOWN-236 - JL-49-04-474 (CWF-2A),2022-08-18 17:20:00,3763.27,-106.605825,31.95371338
+"Groundwater level above NGVD 1929, feet",MBOWN-236 - JL-49-04-474 (CWF-2A),2022-09-22 16:33:00,3758.97,-106.605825,31.95371338
+"Groundwater level above NGVD 1929, feet",MBOWN-237 - JL-49-04-475 (CWF-2B),2022-07-07 16:51:00,3745.61,-106.605825,31.95371338
+"Groundwater level above NGVD 1929, feet",MBOWN-237 - JL-49-04-475 (CWF-2B),2022-08-18 17:22:00,3747.29,-106.605825,31.95371338
+"Groundwater level above NGVD 1929, feet",MBOWN-237 - JL-49-04-475 (CWF-2B),2022-09-22 16:35:00,3742.91,-106.605825,31.95371338
+"Groundwater level above NGVD 1929, feet",MBOWN-238 - JL-49-04-476 (CWF-2C),2022-07-07 16:40:00,3678.68,-106.605825,31.95371338
+"Groundwater level above NGVD 1929, feet",MBOWN-238 - JL-49-04-476 (CWF-2C),2022-08-18 17:23:00,3665.28,-106.605825,31.95371338
+"Groundwater level above NGVD 1929, feet",MBOWN-238 - JL-49-04-476 (CWF-2C),2022-09-22 16:41:00,3655.72,-106.605825,31.95371338
+"Groundwater level above NGVD 1929, feet",MBOWN-239 - JL-49-04-477 (CWF-2D),2022-07-07 16:36:00,3687.12,-106.605825,31.95371338
+"Groundwater level above NGVD 1929, feet",MBOWN-239 - JL-49-04-477 (CWF-2D),2022-08-18 17:35:00,3654.84,-106.605825,31.95371338
+"Groundwater level above NGVD 1929, feet",MBOWN-239 - JL-49-04-477 (CWF-2D),2022-09-22 16:37:00,3645.5,-106.605825,31.95371338
+"Groundwater level above NGVD 1929, feet",MBOWN-240 - JL-49-04-478 (CWF-1A),2022-07-07 16:13:00,3765.69,-106.604436,31.95371338
+"Groundwater level above NGVD 1929, feet",MBOWN-240 - JL-49-04-478 (CWF-1A),2022-09-22 16:17:00,3757.76,-106.604436,31.95371338
+"Groundwater level above NGVD 1929, feet",MBOWN-241 - JL-49-04-479 (CWF-1B),2022-07-07 15:56:00,3742.13,-106.604436,31.95371338
+"Groundwater level above NGVD 1929, feet",MBOWN-241 - JL-49-04-479 (CWF-1B),2022-08-18 16:47:00,3743.83,-106.604436,31.95371338
+"Groundwater level above NGVD 1929, feet",MBOWN-241 - JL-49-04-479 (CWF-1B),2022-09-22 16:15:00,3738.98,-106.604436,31.95371338
+"Groundwater level above NGVD 1929, feet",MBOWN-242 - JL-49-04-480 (CWF-1C),2022-07-07 15:52:00,3681.67,-106.604436,31.95371338
+"Groundwater level above NGVD 1929, feet",MBOWN-242 - JL-49-04-480 (CWF-1C),2022-08-18 16:48:00,3669.33,-106.604436,31.95371338
+"Groundwater level above NGVD 1929, feet",MBOWN-242 - JL-49-04-480 (CWF-1C),2022-09-22 16:12:00,3659.57,-106.604436,31.95371338
+"Groundwater level above NGVD 1929, feet",MBOWN-243 - JL-49-04-481 (CWF-1D),2022-07-07 15:46:00,3688.16,-106.604436,31.95371338
+"Groundwater level above NGVD 1929, feet",MBOWN-243 - JL-49-04-481 (CWF-1D),2022-08-18 16:50:00,3660.12,-106.604436,31.95371338
+"Groundwater level above NGVD 1929, feet",MBOWN-243 - JL-49-04-481 (CWF-1D),2022-09-22 16:08:00,3650.52,-106.604436,31.95371338
+"Groundwater level above NGVD 1929, feet",RU-10-53-602,2022-08-17 14:41:00,3511.11,-102.4040556,34.1695
+"Groundwater level above NGVD 1929, feet",TD-69-32-703 (MED-1),2022-06-21 13:20:00,943.17,-99.1101102,29.53411853
+"Groundwater level above NGVD 1929, feet",TD-69-38-601 (Seco Creek Well),2022-08-23 14:19:00,773.95,-99.2833738,29.43856519
+"Groundwater level above NGVD 1929, feet",TS-60-35-202 (Flower Follet),2022-06-23 15:13:00,248.32,-95.7106111,30.49883333
+"Groundwater level above NGVD 1929, feet",TS-60-35-202 (Flower Follet),2022-08-11 14:36:00,248.26,-95.7106111,30.49883333
+"Groundwater level above NGVD 1929, feet",TS-60-35-202 (Flower Follet),2022-08-30 15:33:00,248.2,-95.7106111,30.49883333
+"Groundwater level above NGVD 1929, feet",TS-60-35-503 (Bailey Grove Piezometer No. 2-A),2022-08-11 15:52:00,223.99,-95.7080556,30.4436111
+"Groundwater level above NGVD 1929, feet",TS-60-35-505 (Bailey Grove Piezometer No. 2-C),2022-08-11 15:48:00,223.58,-95.7080556,30.4436111
+"Groundwater level above NGVD 1929, feet",TS-60-44-805 (Lake Creek Piezometer No. 3-B),2022-08-12 13:59:00,118.67,-95.5769444,30.25138889
+"Groundwater level above NGVD 1929, feet",TS-60-45-412 (City of Conroe Piezometer No. 1),2022-08-10 14:45:00,151.08,-95.4836111,30.33027778
+"Groundwater level above NGVD 1929, feet",TS-60-45-414 (City of Conroe Piezometer No. 3),2022-08-10 14:49:00,184.17,-95.4836111,30.33027778
+"Groundwater level above NGVD 1929, feet",TS-60-53-516 (Needham Piezometer No. 4-A),2022-06-23 16:21:00,-226.15,-95.4575,30.20777778
+"Groundwater level above NGVD 1929, feet",TS-60-53-516 (Needham Piezometer No. 4-A),2022-07-05 14:25:00,-230.77,-95.4575,30.20777778
+"Groundwater level above NGVD 1929, feet",TS-60-53-516 (Needham Piezometer No. 4-A),2022-07-05 17:29:00,-230.75,-95.4575,30.20777778
+"Groundwater level above NGVD 1929, feet",TS-60-53-516 (Needham Piezometer No. 4-A),2022-08-04 18:57:00,-243.99,-95.4575,30.20777778
+"Groundwater level above NGVD 1929, feet",TS-60-53-718 (Woodlands Piezometer No. 1-A),2022-08-12 15:02:00,-14.39,-95.4630556,30.14
+"Groundwater level above NGVD 1929, feet",TS-60-55-710 (New Caney Piezometer No. 7-A),2022-06-23 17:10:00,-37.03,-95.2425,30.14694444
+"Groundwater level above NGVD 1929, feet",TS-60-55-710 (New Caney Piezometer No. 7-A),2022-09-12 16:17:00,-40.11,-95.2425,30.14694444
+"Groundwater level above NGVD 1929, feet",US-53-09-301,2022-08-09 18:11:00,2902.53,-102.8927806,30.8528611
+"Groundwater level above NGVD 1929, feet",YD-58-50-301 (Lovelady),2022-07-20 16:45:00,469.6,-97.7815833,30.21033889
+"Groundwater level above NGVD 1929, feet",YD-58-50-301 (Lovelady),2022-09-19 16:45:00,464.24,-97.7815833,30.21033889
+"Groundwater level above NGVD 1929, feet",YD-58-50-301 (Lovelady),2022-09-19 17:00:00,464.26,-97.7815833,30.21033889
+"Groundwater level above NGVD 1929, feet",YP-69-35-602 (Frio Reference Well),2022-08-17 16:34:00,1100.58,-99.6647745,29.44606596
+"Groundwater level above NGVD 1929, feet",YP-69-35-602 (Frio Reference Well),2022-09-07 15:34:00,1100.17,-99.6647745,29.44606596
+"Groundwater level above NGVD 1929, feet",YU-60-28-802 (Sam Hou. Nat. Forest Piezo. No. 1),2022-08-10 18:58:00,236.81,-95.5639167,30.52816667
+"Groundwater level above local mean sea level (LMSL), feet",LJ-65-22-9xx (MW-102),2022-06-21 13:36:00,-84.28,-95.250175,29.65988889
+"Groundwater level above local mean sea level (LMSL), feet",LJ-65-22-9xx (MW-102),2022-07-12 13:40:00,-84.28,-95.250175,29.65988889
+"Groundwater level above local mean sea level (LMSL), feet",LJ-65-22-9xx (MW-102),2022-08-11 14:59:00,-84.58,-95.250175,29.65988889
+"Groundwater level above local mean sea level (LMSL), feet",LJ-65-22-9xx (MW-102),2022-09-14 15:20:00,-84.62,-95.250175,29.65988889
+"Groundwater level above local mean sea level (LMSL), feet",LJ-65-22-9xx (MW-11),2022-06-21 13:08:00,24.46,-95.250725,29.66131389
+"Groundwater level above local mean sea level (LMSL), feet",LJ-65-22-9xx (MW-11),2022-07-12 13:14:00,24.06,-95.250725,29.66131389
+"Groundwater level above local mean sea level (LMSL), feet",LJ-65-22-9xx (MW-11),2022-08-11 14:41:00,23.41,-95.250725,29.66131389
+"Groundwater level above local mean sea level (LMSL), feet",LJ-65-22-9xx (MW-11),2022-09-14 15:03:00,23.23,-95.250725,29.66131389
+"Groundwater level above local mean sea level (LMSL), feet",LJ-65-22-9xx (RW-1R),2022-06-21 14:08:00,14.28,-95.2502,29.65931389
+"Groundwater level above local mean sea level (LMSL), feet",LJ-65-22-9xx (RW-1R),2022-07-12 13:58:00,14.12,-95.2502,29.65931389
+"Groundwater level above local mean sea level (LMSL), feet",LJ-65-22-9xx (RW-1R),2022-08-11 15:36:00,15.12,-95.2502,29.65931389
+"Groundwater level above local mean sea level (LMSL), feet",LJ-65-22-9xx (RW-1R),2022-09-14 15:48:00,15.36,-95.2502,29.65931389
+"Groundwater level above local mean sea level (LMSL), feet",LJ-65-22-9xx (RW-8R),2022-06-21 12:57:00,16.54,-95.2506917,29.66098889
+"Groundwater level above local mean sea level (LMSL), feet",LJ-65-22-9xx (RW-8R),2022-07-12 12:58:00,16.41,-95.2506917,29.66098889
+"Groundwater level above local mean sea level (LMSL), feet",LJ-65-22-9xx (RW-8R),2022-08-11 14:31:00,16.59,-95.2506917,29.66098889
+"Groundwater level above local mean sea level (LMSL), feet",LJ-65-22-9xx (RW-8R),2022-09-14 14:47:00,17.07,-95.2506917,29.66098889
+"Groundwater level above local mean sea level (LMSL), feet",LJ-65-23-7xx (MW-26),2022-06-21 13:59:00,19.62,-95.2494944,29.65974444
+"Groundwater level above local mean sea level (LMSL), feet",LJ-65-23-7xx (MW-26),2022-07-12 14:22:00,19.78,-95.2494944,29.65974444
+"Groundwater level above local mean sea level (LMSL), feet",LJ-65-23-7xx (MW-26),2022-08-11 16:13:00,19.65,-95.2494944,29.65974444
+"Groundwater level above local mean sea level (LMSL), feet",LJ-65-23-7xx (MW-26),2022-09-14 16:03:00,19.72,-95.2494944,29.65974444
